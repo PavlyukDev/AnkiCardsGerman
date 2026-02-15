@@ -1,0 +1,155 @@
+#separator:tab
+#html:true
+#tags column:4
+<div>food / їжа, страва</div>	<div>die Speise, -n</div>	<div>Die Speisen im „Jasmin“ sind immer frisch und super lecker.</div>	#food
+<div>fresh / свіжий</div>	<div>frisch</div>	<div>Die Speisen im „Jasmin“ sind immer frisch und super lecker.</div>	#food
+<div>special / особливий</div>	<div>besonder-</div>	<div>Ein besonderes Extra: Die Vorspeise ist kostenlos.</div>	#adjective
+<div>extra / додаток, екстра</div>	<div>das Extra, -s</div>	<div>Ein besonderes Extra: Die Vorspeise ist kostenlos.</div>	#food
+<div>full / повний, заповнений</div>	<div>voll</div>	<div>Das Restaurant war total voll und wir haben keinen Platz mehr bekommen.</div>	#adjective
+<div>starter / закуска</div>	<div>die Vorspeise, -n</div>	<div>Als Vorspeise hatten wir Fischsuppe.</div>	#food
+<div>view / вид, краєвид</div>	<div>der Blick, -e</div>	<div>Der Blick auf das Wasser war toll.</div>	#nature
+<div>main course / основна страва</div>	<div>die Hauptspeise, -n</div>	<div>Hauptspeise und Dessert waren ok, aber nicht so toll.</div>	#food
+<div>dessert / десерт</div>	<div>das Dessert, -s</div>	<div>Hauptspeise und Dessert waren ok, aber nicht so toll як Fischsuppe.</div>	#food
+<div>waiter / офіціант</div>	<div>der/die Kellner, - / Kellnerin, -nen</div>	<div>Die Kellner im Restaurant „Jasmin“ sind sehr freundlich.</div>	#jobs
+<div>friendly / привітний, дружелюбний</div>	<div>freundlich</div>	<div>Die Kellner im Restaurant „Jasmin“ sind sehr freundlich.</div>	#personality
+<div>selection / вибір, асортимент</div>	<div>die Auswahl (Singular)</div>	<div>Die Auswahl an Speisen und Getränken im „Luna Rossa“ ist gut.</div>	#food
+<div>service / сервіс, обслуговування</div>	<div>der Service (Singular)</div>	<div>Der Service im „Shiva“ war nicht besonders gut.</div>	#restaurant
+<div>pizza / піца</div>	<div>die Pizza, Pizzen (Pizzas)</div>	<div>Die Pizzen kosten im „Luna Rossa“ zwischen 7 und 12 Euro.</div>	#food
+<div>brick oven / кам'яна піч</div>	<div>der Steinofen, Steinöfen</div>	<div>Die Pizzen kommen im „Luna Rossa“ frisch aus dem Steinofen.</div>	#kitchen
+<div>menu / меню, асортимент страв</div>	<div>das Speisenangebot, -e</div>	<div>Das Restaurant ist gemütlich und das Speisenangebot groß.</div>	#restaurant
+<div>quality / якість</div>	<div>die Qualität (Singular)</div>	<div>Die Qualität der Lebensmittel ist sehr gut.</div>	#food
+<div>professionally / професійно</div>	<div>beruflich</div>	<div>Ich gehe beruflich und privat oft essen.</div>	#adverb
+<div>privately / приватно</div>	<div>privat</div>	<div>Ich gehe beruflich und privat oft essen.</div>	#adverb
+<div>fantastic, top / топовий, чудовий</div>	<div>top</div>	<div>Hier ist wirklich alles top.</div>	#adjective
+<div>hopefully / сподіваюся, з надією</div>	<div>hoffentlich</div>	<div>Hoffentlich bleibt das noch lange so gut.</div>	#adverb
+<div>empty / порожній</div>	<div>leer</div>	<div>Das Restaurant ist heute leer. Es sind keine Gäste da.</div>	#adjective
+<div>main course / основна страва</div>	<div>das Hauptgericht, -e</div>	<div>Die Hauptgerichte sind mit 10 bis 18 Euro nicht so teuer.</div>	#food
+<div>ingredients / інгредієнти</div>	<div>die Zutat, -en</div>	<div>Das Essen schmeckt lecker und die Zutaten sind immer frisch.</div>	#food
+<div>right (nearby) / зовсім (поруч)</div>	<div>ganz (in der Nähe)</div>	<div>Das Restaurant ist ganz in der Nähe.</div>	#location
+<div>nearby / поруч, поблизу</div>	<div>die Nähe (Singular)</div>	<div>Das Restaurant ist ganz in der Nähe. Wir laufen zwei Minuten.</div>	#location
+<div>pasta / паста</div>	<div>die Pasta (Singular)</div>	<div>Hier gibt es Pizza und Pasta.</div>	#food
+<div>burger / бургер</div>	<div>der Burger, -</div>	<div>Burger und Pommes schmecken einfach gut.</div>	#food
+<div>noodles / локшина</div>	<div>die Nudel, -n</div>	<div>Er isst lieber Nudeln als Reis.</div>	#food
+<div>fast food / фастфуд</div>	<div>das Fastfood (Singular)</div>	<div>Ich weiß, Fastfood ist nicht gesund.</div>	#food
+<div>just / просто</div>	<div>einfach</div>	<div>Burger und Pommes schmecken einfach gut.</div>	#adverb
+<div>Asian / азійський</div>	<div>asiatisch</div>	<div>Antonia isst gern asiatisch, zum Beispiel Vietnamesisch.</div>	#food
+<div>south / південь (південний)</div>	<div>Süd- (Süden)</div>	<div>Der Wein aus Süditalien schmeckt mir sehr gut.</div>	#location
+<div>mushroom / гриб</div>	<div>der Pilz, -e</div>	<div>Wollen wir die Pasta mit Pilzen und Schinken essen?</div>	#food
+<div>vegetarian / вегетаріанець</div>	<div>der/die Vegetarier, - / Vegetarierin, -nen</div>	<div>Ich esse kein Fleisch. Ich bin Vegetarier.</div>	#personality
+<div>to reserve / бронювати</div>	<div>reservieren</div>	<div>Mark Fischer möchte einen Tisch im Restaurant reservieren.</div>	#verbs
+<div>Saturday lunchtime / обід суботи</div>	<div>der Samstagmittag, -e</div>	<div>Am Samstagmittag ist das Restaurant sehr voll.</div>	#time
+<div>tomato soup / томатний суп</div>	<div>die Tomatensuppe, -n</div>	<div>Als Vorspeise nehme ich die Tomatensuppe.</div>	#food
+<div>apple spritzer / яблучний шорле (сік з мінералкою)</div>	<div>die Apfelschorle, -n</div>	<div>Zum Trinken hätte ich gern eine Apfelschorle, bitte.</div>	#drinks
+<div>red wine / червоне вино</div>	<div>der Rotwein, -e</div>	<div>Hier sind der Rotwein für die Dame.</div>	#drinks
+<div>prosecco / просекко</div>	<div>der Prosecco, -s</div>	<div>Hier ist der Prosecco für den Herrn.</div>	#drinks
+<div>to choose / вибирати</div>	<div>wählen</div>	<div>Haben Sie schon gewählt?</div>	#verbs
+<div>afterwards / після цього, потім</div>	<div>danach</div>	<div>Als Vorspeise nehme ich die Suppe. Danach hätte ich gern den Fisch.</div>	#time
+<div>tip / чайові</div>	<div>das Trinkgeld, -er</div>	<div>In Deutschland sind 5–10 % als Trinkgeld üblich.</div>	#money
+<div>orange juice / апельсиновий сік</div>	<div>der Orangensaft, Orangensäfte</div>	<div>Ich nehme einen Orangensaft, bitte.</div>	#drinks
+<div>white wine / біле вино</div>	<div>der Weißwein, -e</div>	<div>Für mich einen Weißwein, bitte.</div>	#drinks
+<div>ice cream / морозиво</div>	<div>das Eis (Singular)</div>	<div>Als Dessert hätte ich gern ein Eis mit Sahne.</div>	#food
+<div>espresso / еспресо</div>	<div>der Espresso, -s</div>	<div>Ich möchte einen Espresso, bitte.</div>	#drinks
+<div>cappuccino / капучино</div>	<div>der Cappuccino, -s</div>	<div>Ich möchte einen Cappuccino, bitte.</div>	#drinks
+<div>tuna / тунець</div>	<div>der Thunfisch, -e</div>	<div>Einen Salat mit Ei und Thunfisch, bitte.</div>	#food
+<div>lemon cream / лимонний крем</div>	<div>die Zitronencreme, -s</div>	<div>Als Dessert einmal die Zitronencreme, bitte.</div>	#food
+<div>lemonade / лимонад</div>	<div>die Limonade, -n</div>	<div>Wir nehmen eine Limonade, bitte.</div>	#drinks
+<div>cola / кола</div>	<div>die (das) Cola, -s</div>	<div>Wir nehmen eine Cola і ein Mineralwasser.</div>	#drinks
+<div>mineral water / мінеральна вода</div>	<div>das Mineralwasser, -</div>	<div>Ein Mineralwasser, bitte.</div>	#drinks
+<div>cheese / сир</div>	<div>der Käse (Singular)</div>	<div>Ich hätte gern eine Pizza mit viel Käse.</div>	#food
+<div>cheese and olive platter / тарілка з сиром та оливками</div>	<div>der Käse-Oliventeller</div>	<div>Ich nehme den Käse-Oliventeller.</div>	#food
+<div>risotto / різотто</div>	<div>das (der) Risotto, -/s</div>	<div>Einmal das Risotto mit Huhn, bitte.</div>	#food
+<div>chicken / курка</div>	<div>das Huhn, Hühner</div>	<div>Einmal das Risotto mit Huhn, bitte.</div>	#food
+<div>ice-cream sundae / порція морозива</div>	<div>der Eisbecher, -</div>	<div>Wir nehmen zum Dessert einen Eisbecher.</div>	#food
+<div>tiramisu / тірамісу</div>	<div>das Tiramisu, -</div>	<div>Wir nehmen zum Dessert ein Tiramisu.</div>	#food
+<div>chocolate pie / шоколадний торт</div>	<div>die Schokotorte, -n</div>	<div>Wir nehmen zum Dessert eine Schokotorte.</div>	#food
+<div>to / до (пиття)</div>	<div>zu</div>	<div>Was kann ich Ihnen zu trinken bringen?</div>	#preposition
+<div>take part / брати участь</div>	<div>teilnehmen</div>	<div>Wie kann ich am Abendessen teilnehmen?</div>	#verbs
+<div>search / пошук</div>	<div>die Suche, -n</div>	<div>Über „Suche“ kannst du ein Abendessen suchen.</div>	#verbs
+<div>vegetarian / вегетаріанський</div>	<div>vegetarisch</div>	<div>Wähle Fisch, Fleisch oder vegetarisch.</div>	#food
+<div>website / вебсайт</div>	<div>die Webseite, -n</div>	<div>Du kannst direkt auf der Webseite reservieren.</div>	#media
+<div>data / дані</div>	<div>die Daten (Plural)</div>	<div>Ми шличемо тобі імейл з усіма даними.</div>	#media
+<div>host / господар</div>	<div>der/die Gastgeber, - / Gastgeberin, -nen</div>	<div>Der Gastgeber kauft alle Zutaten ein.</div>	#society
+<div>to tidy (up) / прибирати</div>	<div>aufräumen</div>	<div>Man kocht zusammen und räumt auch zusammen auf.</div>	#verbs
+<div>online / онлайн</div>	<div>online</div>	<div>Man kann das Essen online bezahlen.</div>	#media
+<div>washing-up / миття посуду</div>	<div>das Spülen</div>	<div>Ihr helft beim Aufräumen und Spülen.</div>	#kitchen
+<div>variant / варіант</div>	<div>die Variante, -n</div>	<div>Bei uns gibt es Fleisch in allen Varianten.</div>	#food
+<div>carrot soup / морквяний суп</div>	<div>die Karottensuppe, -n</div>	<div>Als Vorspeise gibt es Karottensuppe.</div>	#food
+<div>veal / телятина</div>	<div>das Kalbsfleisch (Singular)</div>	<div>Heute gibt es Kalbsfleisch mit Knödeln.</div>	#food
+<div>dumplings / кнедлики</div>	<div>der Knödel, -</div>	<div>Heute gibt es Kalbsfleisch mit Knödeln.</div>	#food
+<div>pancake / млинець</div>	<div>der Pfannkuchen, -</div>	<div>Als Nachspeise gibt es Pfannkuchen.</div>	#food
+<div>strawberry / полуниця</div>	<div>die Erdbeere, -n</div>	<div>Pfannkuchen mit Eis und Erdbeeren.</div>	#food
+<div>strawberry flan / полуничний пиріг</div>	<div>der Erdbeerkuchen, -</div>	<div>Als Nachspeise gibt es Erdbeerkuchen.</div>	#food
+<div>pan / сковорідка</div>	<div>die Pfanne, -n</div>	<div>Die Pfanne ist auf dem Herd.</div>	#kitchen
+<div>bowl / миска</div>	<div>die Schüssel, -n</div>	<div>Die Schüsseln sind im Schrank.</div>	#kitchen
+<div>pot, pan / каструля</div>	<div>der Topf, Töpfe</div>	<div>Die Töpfe sind dreckig.</div>	#kitchen
+<div>dishwasher / посудомийна машина</div>	<div>die Spülmaschine, -n</div>	<div>Die Töpfe sind in der Spülmaschine.</div>	#kitchen
+<div>sieve, colander / сито, друшляк</div>	<div>das Sieb, -e</div>	<div>Ich brauche ein Sieb für die Nudeln.</div>	#kitchen
+<div>sink / мийка</div>	<div>die Spüle, -n</div>	<div>Das Sieb ist in der Spüle.</div>	#kitchen
+<div>knife / ніж</div>	<div>das Messer, -</div>	<div>Achtung! Die Messer sind scharf.</div>	#kitchen
+<div>to add / додавати</div>	<div>hinzugeben</div>	<div>Torsten gibt Milch zum Teig hinzu.</div>	#verbs
+<div>to stir / розмішувати</div>	<div>verrühren</div>	<div>Cora verrührt Eier und Milch.</div>	#verbs
+<div>to turn / перевертати</div>	<div>wenden</div>	<div>Torsten wendet das Fleisch in der Pfanne.</div>	#verbs
+<div>to cut / різати</div>	<div>schneiden</div>	<div>Ursula schneidet die Zwiebeln.</div>	#verbs
+<div>onion / цибуля</div>	<div>die Zwiebel, -n</div>	<div>Ursula schneidet die Zwiebeln.</div>	#food
+<div>recipe / рецепт</div>	<div>das Rezept, -e</div>	<div>Hier habe ich das Rezept für Kartoffelsuppe.</div>	#cooking
+<div>portion / порція</div>	<div>die Portion, -en</div>	<div>Для чотирьох порцій тобі потрібне тісто.</div>	#food
+<div>dough / тісто</div>	<div>der Teig, -e</div>	<div>Для тіста тобі потрібно борошно.</div>	#food
+<div>flour / борошно</div>	<div>das Mehl (Singular)</div>	<div>Für den Teig brauchst du 200 Gramm Mehl.</div>	#food
+<div>pinch / дрібка</div>	<div>die Prise, -n</div>	<div>Eine Prise Salz hinzufügen.</div>	#cooking
+<div>filling / начинка</div>	<div>die Füllung, -en</div>	<div>Für vier Portionen brauchst du die Füllung.</div>	#food
+<div>strawberry ice-cream / полуничне морозиво</div>	<div>das Erdbeereis (Singular)</div>	<div>Pfannkuchen mit Erdbeereis schmeckt gut.</div>	#food
+<div>to add / додавати</div>	<div>hinzufügen</div>	<div>Füge das Salz hinzu.</div>	#verbs
+<div>again / знову</div>	<div>nochmal</div>	<div>Füge das Salz nochmal hinzu.</div>	#adverb
+<div>side / сторона</div>	<div>die Seite, -n</div>	<div>Die andere Seite muss auch braun sein.</div>	#cooking
+<div>to serve / сервірувати, подавати</div>	<div>servieren</div>	<div>Servieren Sie den Pfannkuchen Ihren Gästen.</div>	#verbs
+<div>to put / ставити, класти</div>	<div>stellen</div>	<div>Stellen Sie den Teig in den Kühlschrank.</div>	#verbs
+<div>Enjoy your meal! / Смачного!</div>	<div>Guten Appetit!</div>	<div>Der Pfannkuchen ist fertig. Guten Appetit!</div>	#communication
+<div>millilitres / мілілітри</div>	<div>der Milliliter (ml)</div>	<div>Wir brauchen 500 Milliliter Milch.</div>	#cooking
+<div>hot / гарячий</div>	<div>heiß</div>	<div>Warten Sie, bis das Öl heiß ist.</div>	#adjective
+<div>watch out / бути уважним, пильнувати</div>	<div>aufpassen</div>	<div>Pass auf! Der Topf ist sehr heiß!</div>	#verbs
+<div>careful / обережний</div>	<div>vorsichtig</div>	<div>Das Messer ist scharf. Sei vorsichtig!</div>	#adjective
+<div>sauce / соус</div>	<div>die Soße, -n</div>	<div>Ich mache eine Soße für die Knödel.</div>	#food
+<div>it says / написано (у тексті)</div>	<div>stehen (hier: im Rezept)</div>	<div>Im Rezept steht, die Knödel sind fertig.</div>	#verbs
+<div>advice / порада</div>	<div>der Rat</div>	<div>Danke für deinen guten Rat.</div>	#society
+<div>recommendation / рекомендація</div>	<div>die Empfehlung, -en</div>	<div>Danke für deine Empfehlung.</div>	#society
+<div>no one / ніхто</div>	<div>niemand</div>	<div>Alle sind da, es kommt niemand mehr.</div>	#pronoun
+<div>someone / хтось</div>	<div>jemand</div>	<div>Kann mir jemand helfen?</div>	#pronoun
+<div>to switch on / вмикати</div>	<div>anschalten</div>	<div>Wie schaltet man die Spülmaschine an?</div>	#verbs
+<div>soup / суп</div>	<div>die Suppe, -n</div>	<div>Als Vorspeise gibt es eine Suppe.</div>	#food
+<div>pepper / перець</div>	<div>der Pfeffer (Singular)</div>	<div>Und wir brauchen ein bisschen Salz und Pfeffer.</div>	#food
+<div>cream / вершки</div>	<div>die Sahne (Singular)</div>	<div>Und dann brauchen wir einen Becher Sahne.</div>	#food
+<div>pot, tub / стаканчик, баночка</div>	<div>der Becher, -</div>	<div>Du brauchst einen Becher Sahne.</div>	#cooking
+<div>carrot / морква</div>	<div>die Karotte, -n</div>	<div>Du brauchst Sahne und Karotten.</div>	#food
+<div>half / половина (прикметник)</div>	<div>halb-</div>	<div>Для супу нам потрібна половина цибулини.</div>	#adjective
+<div>furthermore / крім того, також</div>	<div>außerdem</div>	<div>Ми потребуємо картоплі і також моркви.</div>	#adverb
+<div>morning / ранок</div>	<div>der Morgen, -</div>	<div>Багато людей снідають кожного ранку довго.</div>	#time
+<div>at lunchtime / в обід</div>	<div>mittags</div>	<div>Багато сімей їдять в обід разом.</div>	#time
+<div>lunch / обід</div>	<div>das Mittagessen, -</div>	<div>Mittagessen gibt es meistens zwischen 12 und 14 Uhr.</div>	#food
+<div>muesli / мюслі</div>	<div>das Müsli, -s</div>	<div>Zum Frühstück esse ich gern Müsli.</div>	#food
+<div>bread and honey / хліб з медом</div>	<div>das Honigbrot, -e</div>	<div>Zum Frühstück esse ich ein Honigbrot.</div>	#food
+<div>marmelade / джем, варення</div>	<div>die Marmelade, -n</div>	<div>Marmelade finde ich zu süß.</div>	#food
+<div>in the morning / вранці</div>	<div>morgens</div>	<div>Ich trinke morgens Tee.</div>	#time
+<div>stomach ache / біль у шлунку</div>	<div>die Magenschmerzen (Plural)</div>	<div>Kaffee kann ich nicht trinken, weil ich Magenschmerzen bekomme.</div>	#health
+<div>sandwich / сендвіч</div>	<div>das Sandwich, -es</div>	<div>Mittags esse ich часто сендвіч.</div>	#food
+<div>in the evening / вечорами</div>	<div>abends</div>	<div>Abends koche ich mit meiner Freundin.</div>	#time
+<div>most of all / перш за все, особливо</div>	<div>vor allem</div>	<div>Abends koche ich — vor allem Pasta.</div>	#adverb
+<div>earlier, in the early days / раніше</div>	<div>früher</div>	<div>Früher habe ich fast nie gekocht.</div>	#time
+<div>kebab / донер, кебаб</div>	<div>der Döner, -</div>	<div>Ich habe mir oft Döner geholt.</div>	#food
+<div>croissant / круасан</div>	<div>das Croissant, -s</div>	<div>Я п'ю каву і їм круасан.</div>	#food
+<div>cornflakes / кукурудзяні пластівці</div>	<div>die Cornflakes (Plural)</div>	<div>Manchmal esse ich Cornflakes mit Milch.</div>	#food
+<div>canteen / їдальня (на підприємстві/в закладі)</div>	<div>die Kantine, -n</div>	<div>Mittags esse ich in der Kantine.</div>	#restaurant
+<div>bread and sausage / бутерброд із ковбасою</div>	<div>das Wurstbrot, -e</div>	<div>Wir essen тільки бутерброд із ковбасою.</div>	#food
+<div>allergy / алергія</div>	<div>die Allergie, -n</div>	<div>Leider habe ich eine Allergie.</div>	#health
+<div>uni / унік, університет</div>	<div>die Uni, -s</div>	<div>Mittags kann ich nicht kochen, weil ich in der Uni bin.</div>	#education
+<div>in peace / спокійно, в тиші</div>	<div>in Ruhe</div>	<div>Dann kann ich in Ruhe kochen.</div>	#adverb
+<div>Indian / індійський</div>	<div>indisch</div>	<div>Am liebsten koche ich indisch.</div>	#food
+<div>Thai / тайський</div>	<div>thailändisch</div>	<div>Am liebsten koche ich thailändisch.</div>	#food
+<div>brunch / бранч</div>	<div>der Brunch (Singular)</div>	<div>Am Wochenende treffen wir uns zum Brunch.</div>	#food
+<div>pie, tart, cake / торт, пиріг</div>	<div>die Torte, -n</div>	<div>Zum Kaffee esse ich gerne ein Stück Torte.</div>	#food
+<div>carrot cake / морквяний пиріг</div>	<div>der Karottenkuchen, -</div>	<div>Zum Kaffee esse ich gerne Karottenkuchen.</div>	#food
+<div>plate / тарілка</div>	<div>der Teller, -</div>	<div>Sind die Teller schon auf dem Tisch?</div>	#kitchen
+<div>cup / чашка</div>	<div>die Tasse, -n</div>	<div>Möchtet ihr eine Tasse Kaffee?</div>	#kitchen
+<div>fork / виделка</div>	<div>die Gabel, -n</div>	<div>Ich brauche ще виделку.</div>	#kitchen
+<div>spoon / ложка</div>	<div>der Löffel, -</div>	<div>Ich brauche ще ложку для супу.</div>	#kitchen
+<div>serviette / серветка</div>	<div>die Serviette, -n</div>	<div>Серветки вже на столі.</div>	#kitchen
+<div>paprika, bell pepper / паприка, солодкий перець</div>	<div>die (der) Paprika, -s</div>	<div>Я їм найохочіше червону паприку.</div>	#food

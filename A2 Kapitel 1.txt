@@ -1,0 +1,274 @@
+#separator:tab
+#html:true
+#tags column:4
+<div>chess / шахи</div>	<div>das Schach</div>	<div>Dominik hat Schach spielen von seinem Vater gelernt.</div>	#games
+<div>guerilla knitting, yarn bombing / партизанське в'язання</div>	<div>das Guerilla-Stricken (Singular)</div>	<div>Guerilla-Stricken ist mein Hobby. Wir stricken Schals und Pullover für Bäume.</div>	#hobbies
+<div>paragliding / парапланеризм</div>	<div>das Gleitschirmfliegen (Singular)</div>	<div>Er mag Gleitschirmfliegen.</div>	#sports
+<div>hula hooping / хула-хупінг</div>	<div>das Hula-Hooping (Singular)</div>	<div>Hula-Hooping trainiert den ganzen Körper.</div>	#fitness
+<div>parachute jumping / стрибки з парашутом</div>	<div>das Fallschirmspringen (Singular)</div>	<div>Beim Fallschirmspringen fliegt man mit ca. 200 km/h durch die Luft.</div>	#extreme
+<div>backgammon / нарди</div>	<div>das Backgammon (Singular)</div>	<div>Backgammon spielen ist mein Hobby.</div>	#games
+<div>not at all / зовсім ні</div>	<div>gar (gar nicht)</div>	<div>Das ist gar nicht so einfach.</div>	#adverb
+<div>fairly / досить, цілком</div>	<div>ganz (ganz schön)</div>	<div>Hast du auch so viel gearbeitet? Nicht ganz so viel.</div>	#adverb
+<div>strenuous / виснажливий, напружений</div>	<div>anstrengend</div>	<div>Hula-Hooping ist gar nicht einfach und auch ganz schön anstrengend.</div>	#adjective
+<div>to train, to keep fit / тренуватися</div>	<div>trainieren</div>	<div>Hula-Hooping trainiert den ganzen Körper.</div>	#fitness
+<div>whole / цілий, весь</div>	<div>ganz</div>	<div>Hula-Hooping trainiert den ganzen Körper.</div>	#adjective
+<div>body / тіло</div>	<div>der Körper, -</div>	<div>Sport ist gut für den ganzen Körper.</div>	#health
+<div>fit / у формі</div>	<div>fit</div>	<div>Hula-Hooping macht fit.</div>	#health
+<div>to be fun / приносити задоволення</div>	<div>Spaß machen</div>	<div>Sport macht sehr viel Spaß.</div>	#emotions
+<div>hula hoop / хула-хуп</div>	<div>der (das) Hula-Hoop, -s</div>	<div>Schon als Kind habe ich Hula-Hoop geliebt.</div>	#hobby
+<div>hoop / обруч</div>	<div>der Reifen, -</div>	<div>Am Anfang habe ich nur mit einem Hula-Hoop-Reifen trainiert.</div>	#fitness
+<div>to manage / справлятися, вдаватися</div>	<div>schaffen</div>	<div>Ich schaffe Hula-Hoop jetzt schon mit drei Reifen.</div>	#verbs
+<div>adrenaline / адреналін</div>	<div>der Adrenalinkick, -s</div>	<div>Ich brauche den Adrenalinkick.</div>	#emotions
+<div>jump / стрибок</div>	<div>der Sprung, Sprünge</div>	<div>Meinen ersten Fallschirmsprung habe ich vor fünf Jahren gemacht.</div>	#sports
+<div>to give (a gift) / дарувати</div>	<div>schenken</div>	<div>Freunde haben mir zu meinem Geburtstag den Sprung gesченкт.</div>	#verbs
+<div>air / повітря</div>	<div>die Luft (Singular)</div>	<div>50 Sekunden lang fliegt man mit ca. 200 km/h durch die Luft.</div>	#nature
+<div>fantastic / фантастичний</div>	<div>fantastisch</div>	<div>Fallschirmspringen ist fantastisch.</div>	#adjective
+<div>absolutely / обов'язково</div>	<div>unbedingt</div>	<div>Ich will jetzt unbedingt die Ausbildung zum Fallschirmlehrer machen.</div>	#adverb
+<div>course, training / навчання, підготовка</div>	<div>die Ausbildung, -en</div>	<div>Ich will jetzt eine Ausbildung zum Fallschirmlehrer machen.</div>	#education
+<div>parachute coach / інструктор з парашутизму</div>	<div>der/die Fallschirmlehrer, - / Fallschirmlehrerin, -nen</div>	<div>Jan will eine Ausbildung zum Fallschirmlehrer machen.</div>	#jobs
+<div>favourite / улюблений</div>	<div>Lieblings-</div>	<div>Mein Lieblingshobby ist Schach.</div>	#adjective
+<div>game / гра</div>	<div>das Spiel, -e</div>	<div>Mir hat das Spiel schon als Kind gefallen.</div>	#games
+<div>regular(ly) / регулярно</div>	<div>regelmäßig</div>	<div>Jetzt spiele ich regelmäßig Schach.</div>	#adverb
+<div>competition / турнір, змагання</div>	<div>das Turnier, -e</div>	<div>Dominik spielt regelmäßig Turniere.</div>	#sports
+<div>several / декілька</div>	<div>mehrere</div>	<div>Ein Spiel dauert oft mehrere Stunden.</div>	#adjective
+<div>for that / для цього</div>	<div>dafür</div>	<div>Dafür braucht man eine gute Konzentration.</div>	#adverb
+<div>concentration / концентрація</div>	<div>die Konzentration</div>	<div>Für Schach braucht man eine gute Konzentration.</div>	#mind
+<div>to knit / в'язати</div>	<div>stricken</div>	<div>Wir stricken zum Beispiel Schals.</div>	#hobbies
+<div>knitting community / спільнота любителів в'язання</div>	<div>die Strick-Community, -s</div>	<div>Jetzt bin ich in einer Strick-Community.</div>	#society
+<div>scarf / шарф</div>	<div>der Schal, -s</div>	<div>Wir stricken zum Beispiel Schals.</div>	#clothes
+<div>pullover / светр</div>	<div>der Pullover, -</div>	<div>Wir stricken Schals und Pullover für Bäume.</div>	#clothes
+<div>hat / шапка</div>	<div>die Mütze, -n</div>	<div>Wir stricken Mützen für Baustellenschilder.</div>	#clothes
+<div>construction works sign / дорожній знак (будівельний)</div>	<div>das Baustellenschild, -er</div>	<div>Wir stricken Mützen für Baustellenschilder.</div>	#city
+<div>colourful / кольоровий, барвистий</div>	<div>bunt</div>	<div>Wir wollen unsere Stadt schön und bunt machen.</div>	#adjective
+<div>boring / нудний</div>	<div>langweilig</div>	<div>Jetzt ist Mannheim nicht mehr so langweilig und grau.</div>	#adjective
+<div>idea / ідея</div>	<div>die Idee, -n</div>	<div>Vielen gefallen unsere Ideen.</div>	#mind
+<div>some (people) / деякі (люди)</div>	<div>manch-</div>	<div>Manche denken bestimmt, wir sind verrückt.</div>	#pronoun
+<div>certainly / безумовно, напевно</div>	<div>bestimmt</div>	<div>Manche denken bestimmt, wir sind verrückt.</div>	#adverb
+<div>crazy / божевільний</div>	<div>verrückt</div>	<div>Schals für Bäume stricken ist verrückt.</div>	#adjective
+<div>parachute jump / стрибок із парашутом</div>	<div>der Fallschirmsprung, Fallschirmsprünge</div>	<div>Jans erster Fallschirmsprung war ein Geschenk.</div>	#extreme
+<div>birthday present / подарунок на день народження</div>	<div>das Geburtstagsgeschenk, -e</div>	<div>Der Sprung war ein Geburtstagsgeschenk.</div>	#celebration
+<div>to dance / танцювати</div>	<div>tanzen</div>	<div>Er tanzt gern.</div>	#hobbies
+<div>music / музика</div>	<div>die Musik (Singular)</div>	<div>Ich habe viele Hobbys, zum Beispiel Musik hören.</div>	#arts
+<div>to sing / співати</div>	<div>singen</div>	<div>Ich singe in einer Band.</div>	#music
+<div>guitar / гітара</div>	<div>Gitarre (Singular)</div>	<div>Kannst du gut Gitarre spielen?</div>	#music
+<div>tango / танго</div>	<div>der Tango (Singular)</div>	<div>Ich mag Tango tanzen.</div>	#dance
+<div>gym / фітнес-студія</div>	<div>das Fitnessstudio, -s</div>	<div>Heute gehen wir ins Fitnessstudio.</div>	#fitness
+<div>theatre / театр</div>	<div>das Theater, -</div>	<div>Heute gehen wir ins Theater.</div>	#arts
+<div>to act / грати в театрі</div>	<div>das Theater spielen</div>	<div>Theater spielen gefällt ihr.</div>	#arts
+<div>to surf / займатися серфінгом</div>	<div>surfen</div>	<div>Meine Hobbys sind surfen und schwimmen.</div>	#sports
+<div>Spanish / іспанська мова</div>	<div>Spanisch</div>	<div>Sie spricht Spanisch und Deutsch.</div>	#languages
+<div>Japanese / японська мова</div>	<div>Japanisch</div>	<div>Er spricht Japanisch und Englisch.</div>	#languages
+<div>spaghetti / спагеті</div>	<div>die Spaghetti (Plural)</div>	<div>Meine Lieblingsspeisen sind Spaghetti und Sushi.</div>	#food
+<div>sushi / суші</div>	<div>das Sushi (Singular)</div>	<div>Sushi ist meine Lieblingsspeise.</div>	#food
+<div>a few / декілька</div>	<div>ein paar</div>	<div>Haben Sie Zeit für ein paar Fragen?</div>	#adjective
+<div>well / отже, ну</div>	<div>also</div>	<div>Also, das sind surfen und schwimmen.</div>	#adverb
+<div>many / багато</div>	<div>viel-</div>	<div>Ich habe viele Hobbys.</div>	#adjective
+<div>to welcome / вітати (гостей)</div>	<div>begrüßen</div>	<div>Ich begrüße euch im Live-Chat.</div>	#verbs
+<div>parachute expert / експерт із парашутизму</div>	<div>der/die Fallschirmsprung-Experte, -n / Fallschirmsprung-Expertin, -nen</div>	<div>Er ist Fallschirmsprung-Experte.</div>	#jobs
+<div>already / вже</div>	<div>bereits</div>	<div>Er hat bereits über 19000 Sprünge gemacht.</div>	#adverb
+<div>professional, expert / професіонал</div>	<div>der Profi, -s</div>	<div>Freddy ist ein Profi für Fallschirmspringen.</div>	#jobs
+<div>of course / звісно, звичайно</div>	<div>natürlich</div>	<div>Ich möchte euch natürlich auch begrüßen.</div>	#adverb
+<div>to answer / відповідати</div>	<div>beantworten</div>	<div>Ich beantworte gerne eure Fragen.</div>	#verbs
+<div>time / раз</div>	<div>das Mal, Male</div>	<div>Mit 18 Jahren bin ich das erste Mal gesprungen.</div>	#time
+<div>to remember / пам'ятати, згадувати</div>	<div>(sich) erinnern</div>	<div>Ich kann mich noch gut an diesen Sprung erinnern.</div>	#mind
+<div>brilliant / геніальний, чудовий</div>	<div>genial</div>	<div>Mein erster Sprung war einfach genial!</div>	#adjective
+<div>to find / вважати, знаходити</div>	<div>finden</div>	<div>Warum findest du Fallschirmspringen so toll?</div>	#verbs
+<div>because / тому що</div>	<div>weil</div>	<div>Ich finde es toll, weil ich den Adrenalin brauche.</div>	#conjunction
+<div>to climb / лазити (скелелазіння)</div>	<div>klettern</div>	<div>Ich klettere gerne в den Bergen.</div>	#sports
+<div>tandem jump / стрибок у тандемі</div>	<div>der Tandemsprung, Tandemsprünge</div>	<div>Ich will einen Tandemsprung machen.</div>	#extreme
+<div>feeling / відчуття, почуття</div>	<div>das Gefühl, -e</div>	<div>Es ist ein super Gefühl, durch die Luft zu fliegen.</div>	#emotions
+<div>never / ніколи</div>	<div>niemals</div>	<div>Niemals möchte ich das probieren!</div>	#adverb
+<div>to try / спробувати</div>	<div>probieren</div>	<div>Ich möchte das niemals probieren!</div>	#verbs
+<div>dangerous / небезпечний</div>	<div>gefährlich</div>	<div>Ist Fallschirmspringen nicht sehr gefährlich?</div>	#adjective
+<div>to happen / траплятися</div>	<div>passieren</div>	<div>Es passieren fast nie Unfälle.</div>	#verbs
+<div>accident / нещасний випадок</div>	<div>der Unfall, Unfälle</div>	<div>Es passieren fast nie Unfälle.</div>	#events
+<div>safe / безпечний</div>	<div>sicher</div>	<div>Fallschirmspringen ist sehr sicher.</div>	#adjective
+<div>pilot / пілот</div>	<div>der/die Pilot, -en / Pilotin, -nen</div>	<div>Zum Springen braucht man einen Piloten.</div>	#jobs
+<div>but / все ж таки, але</div>	<div>doch</div>	<div>Fallschirmspringen ist doch auch gefährlich, oder?</div>	#adverb
+<div>almost / майже</div>	<div>fast</div>	<div>Beim Springen passieren fast nie Unfälle.</div>	#adverb
+<div>to jump / стрибати</div>	<div>springen</div>	<div>Mit 18 bin ich das erste Mal gesprungen.</div>	#verbs
+<div>fear / страх</div>	<div>die Angst, Ängste</div>	<div>Warum hat Agatha Angst?</div>	#emotions
+<div>works outing / корпоративна поїздка</div>	<div>der Firmenausflug, Firmenausflüge</div>	<div>Wir machen einen Firmenausflug nach Bremen.</div>	#work
+<div>to practise / тренуватися, вправлятися</div>	<div>üben</div>	<div>Warum übt Tim so viel Gitarre spielen?</div>	#verbs
+<div>concert / концерт</div>	<div>das Konzert, -e</div>	<div>Tim hat am Wochenende ein Konzert.</div>	#music
+<div>nature / природа</div>	<div>die Natur (Singular)</div>	<div>Er wandert oft, weil er gern in der Natur ist.</div>	#nature
+<div>movement / рух</div>	<div>die Bewegung, -en</div>	<div>Sie liebt Musik und Bewegung.</div>	#fitness
+<div>football / футбол</div>	<div>Fußball</div>	<div>Warum spielst du nicht Fußball?</div>	#sports
+<div>maths test / тест із математики</div>	<div>der Mathetest, -s</div>	<div>Ich muss für einen Mathetest lernen.</div>	#education
+<div>hard-working, diligent / старанний, працьовитий</div>	<div>fleißig</div>	<div>Du bist so fleißig und lernst immer so viel!</div>	#adjective
+<div>marathon / марафон</div>	<div>der Marathon, -s</div>	<div>Ich möchte nächstes Jahr einen Marathon laufen.</div>	#sports
+<div>Brazil / Бразилія</div>	<div>Brasilien</div>	<div>Sie wollen im Sommer nach Brasilien.</div>	#travel
+<div>Portuguese / португальська мова</div>	<div>Portugiesisch</div>	<div>Warum lernen Susa und Reto Portugiesisch?</div>	#languages
+<div>to ski / кататися на лижах</div>	<div>Ski fahren</div>	<div>Ich fahre jeden Winter Ski.</div>	#sports
+<div>to feel like / мати бажання</div>	<div>Lust haben</div>	<div>Ich habe keine Lust zum Zumbakurs zu gehen.</div>	#emotions
+<div>subject line / тема (листа)</div>	<div>der Betreff, -e</div>	<div>Betreff: Firmenausflug an die Nordsee.</div>	#communication
+<div>employee / співробітник</div>	<div>der/die Mitarbeiter, - / Mitarbeiterin, -nen</div>	<div>Die Mitarbeiter sind auf einem Ausflug.</div>	#work
+<div>at last / нарешті</div>	<div>endlich</div>	<div>Endlich ist es wieder Sommer!</div>	#adverb
+<div>again / знову</div>	<div>wieder</div>	<div>Endlich ist es wieder Sommer!</div>	#adverb
+<div>activity / активність, діяльність</div>	<div>die Aktivität, -en</div>	<div>Wir haben wieder viele Aktivitäten geplant.</div>	#hobbies
+<div>plan / планувати</div>	<div>planen</div>	<div>Wir haben viele Aktivitäten geplant.</div>	#verbs
+<div>wind-surfing / віндсерфінг</div>	<div>das Windsurfen (Singular)</div>	<div>Sportfans können Windsurfen auswählen.</div>	#sports
+<div>kite surfing / кайтсерфінг</div>	<div>das Kitesurfen (Singular)</div>	<div>Wir wollen Kitesurfen ausprobieren.</div>	#sports
+<div>to choose / вибирати</div>	<div>auswählen</div>	<div>Die Sportfans können zwischen Kursen auswählen.</div>	#verbs
+<div>culture fan / любитель культури</div>	<div>der Kulturfan, -s</div>	<div>Für die Kulturfans haben wir eine Stadtführung.</div>	#hobbies
+<div>to organise / організовувати</div>	<div>organisieren</div>	<div>Die Firma organisiert einen Ausflug.</div>	#work
+<div>bicycle / велосипед</div>	<div>das (Fahr-)Rad, (Fahr-)Räder</div>	<div>Stadtführung mit oder ohne Rad.</div>	#transport
+<div>company parking space / корпоративна парковка</div>	<div>der Firmenparkplatz, Firmenparkplätze</div>	<div>Abfahrt ist am Firmenparkplatz.</div>	#work
+<div>return journey / зворотна дорога</div>	<div>die Rückfahrt, -en</div>	<div>Die Rückfahrt ist um 19 Uhr.</div>	#travel
+<div>at the latest / найпізніше</div>	<div>spätestens</div>	<div>Anmeldung bis spätestens 15. Juni.</div>	#time
+<div>culture programme / культурна програма</div>	<div>der Kulturprogramm, -e</div>	<div>Wähle zwischen Sport- und Kulturprogramm.</div>	#events
+<div>surfing course / курс серфінгу</div>	<div>der Surfkurs, -e</div>	<div>Ich habe einen Surfkurs am Meer gemacht.</div>	#education
+<div>surfing holiday / відпустка для серфінгу</div>	<div>der Surfurlaub, -e</div>	<div>Ich mache jedes Jahr einen Surfurlaub.</div>	#travel
+<div>exactly / точно</div>	<div>genau</div>	<div>Ich weiß es noch nicht genau.</div>	#adverb
+<div>sporty / спортивний</div>	<div>sportlich</div>	<div>Ich bin nicht so sportlich.</div>	#adjective
+<div>interesting / цікавий</div>	<div>interessant</div>	<div>Die Stadtführung ist bestimmt interessant.</div>	#adjective
+<div>at least / принаймні, як мінімум</div>	<div>mindestens</div>	<div>Ich mache mindestens einmal einen Surfurlaub.</div>	#adverb
+<div>climbing course / курс скелелазіння</div>	<div>der Kletterkurs, -e</div>	<div>Ich habe mit einem Kletterkurs angefangen.</div>	#education
+<div>mostly / переважно</div>	<div>meistens</div>	<div>Ich gehe meistens ins Restaurant.</div>	#adverb
+<div>song / пісня</div>	<div>das Lied, -er</div>	<div>Ich kann nur noch ein paar Lieder spielen.</div>	#music
+<div>improvisation theatre / імпровізаційний театр</div>	<div>das Improtheater, -</div>	<div>Improtheater є total spannend.</div>	#arts
+<div>really / справді, дуже</div>	<div>total</div>	<div>Improtheater ist total spannend.</div>	#adverb
+<div>exciting / захопливий</div>	<div>spannend</div>	<div>Improtheater ist total spannend.</div>	#adjective
+<div>script / сценарій</div>	<div>das Skript, -e</div>	<div>Man hat kein Skript.</div>	#arts
+<div>creative / творчий, креативний</div>	<div>kreativ</div>	<div>Man muss kreativ і flexibel sein.</div>	#adjective
+<div>flexible / гнучкий</div>	<div>flexibel</div>	<div>Man muss kreativ і flexibel sein.</div>	#adjective
+<div>team / команда</div>	<div>das Team, -s</div>	<div>Ich arbeite lieber im Team.</div>	#work
+<div>member / член (організації)</div>	<div>das Mitglied, -er</div>	<div>Unsere Theater-AG hat acht Mitglieder.</div>	#society
+<div>actor / актор</div>	<div>der/die Schauspieler, - / Schauspielerin, -nen</div>	<div>Man muss ein guter Schauspieler sein.</div>	#jobs
+<div>musician / музикант</div>	<div>der/die Musiker, - / Musikerin, -nen</div>	<div>Ich bin Musikerin von Beruf.</div>	#jobs
+<div>all-rounder / універсал (людина, що вміє все)</div>	<div>der/die Allrounder, - / Allrounderin, -nen</div>	<div>Ein Allrounder kann alles.</div>	#jobs
+<div>evenings / вечорами</div>	<div>-abends</div>	<div>Wir spielen immer freitagabends.</div>	#time
+<div>stage / сцена</div>	<div>die Bühne, -n</div>	<div>Для Theaterspielen braucht man eine Bühne.</div>	#arts
+<div>to contact / звертатися, повідомити</div>	<div>(sich) melden</div>	<div>Dann meldet euch per Mail.</div>	#verbs
+<div>by / за допомогою, через</div>	<div>per</div>	<div>Dann meldet euch per Mail.</div>	#adverb
+<div>visit / візит, відвідування</div>	<div>der Besuch, -e</div>	<div>Ich freue mich auf deinen Besuch.</div>	#society
+<div>thing / річ</div>	<div>die Sache, -n</div>	<div>Wir können deine Sachen in die Wohnung bringen.</div>	#objects
+<div>to open / відкривати, започатковувати</div>	<div>eröffnen</div>	<div>Mein Freund eröffnet eine Fotoausstellung.</div>	#events
+<div>to think about / думати про</div>	<div>denken an</div>	<div>Ich habe sofort an dich gedacht.</div>	#mind
+<div>photography / фотографія (мистецтво)</div>	<div>die Fotografie, -n</div>	<div>Du magst doch Fotografie, oder?</div>	#hobbies
+<div>opening / відкриття (виставки)</div>	<div>die Eröffnung, -en</div>	<div>Wollen wir zur Eröffnung gehen?</div>	#events
+<div>fun / веселощі, задоволення</div>	<div>der Spaß, Späße</div>	<div>Die Party macht bestimmt viel Spaß.</div>	#emotions
+<div>first, beforehand / заздалегідь, спочатку</div>	<div>vorher</div>	<div>Ich möchte vorher gern etwas essen.</div>	#time
+<div>main railway station / головний залізничний вокзал</div>	<div>der Hauptbahnhof, Hauptbahnhöfe</div>	<div>Der Zug kommt am Hauptbahnhof an.</div>	#travel
+<div>to sound / звучати</div>	<div>(sich) anhören</div>	<div>Das Programm hört sich gut an.</div>	#verbs
+<div>something / щось</div>	<div>etwas (kurz: was)</div>	<div>Wir können etwas essen.</div>	#pronoun
+<div>half / половина</div>	<div>halb</div>	<div>Der Zug kommt um halb fünf.</div>	#time
+<div>don‘t you? / чи не так?</div>	<div>oder</div>	<div>Du magst doch Fotografie, oder?</div>	#Kapitel_1
+<div>Sekt / ігристе вино</div>	<div>der Sekt (hier: Singular)</div>	<div>Sie möchte ein Glas Sekt.</div>	#food
+<div>bar / бар</div>	<div>die Bar, -s</div>	<div>Wer ist der Mann an der Bar?</div>	#city
+<div>nice, likeable / симпатичний, приємний</div>	<div>sympathisch</div>	<div>Er ist sehr sympathisch.</div>	#adjective
+<div>next to / поруч із</div>	<div>neben</div>	<div>Kennst du den Mann neben Julia?</div>	#preposition
+<div>graphic artist / графік, дизайнер</div>	<div>der/die Grafiker, - / Grafikerin, -nen</div>	<div>Das ist Jordi, unser Grafiker.</div>	#jobs
+<div>to mean / мати на увазі</div>	<div>meinen</div>	<div>Wen meinst Du?</div>	#verbs
+<div>to hope / сподіватися</div>	<div>hoffen</div>	<div>Ich hoffe, die Eröffnung hat euch gefallen.</div>	#mind
+<div>hardly, barely / навряд чи, мало</div>	<div>kaum</div>	<div>Leider hatte ich kaum Zeit.</div>	#adverb
+<div>great, brilliant / чудовий, класний</div>	<div>klasse</div>	<div>Die Eröffnung war klasse!</div>	#adjective
+<div>by the way / до речі</div>	<div>übrigens</div>	<div>Katja findet dich übrigens auch nett.</div>	#adverb
+<div>See you soon / до зустрічі</div>	<div>Bis bald.</div>	<div>Ich melde mich. Bis bald.</div>	#communication
+<div>sense of humour / почуття гумору</div>	<div>der Humor (Singular)</div>	<div>Sie mag deinen Humor.</div>	#personality
+<div>unpleasant / неприємний, несимпатичний</div>	<div>unsympathisch</div>	<div>Ich finde ihn unsympathisch.</div>	#adjective
+<div>nice, kind / милий, приємний</div>	<div>nett</div>	<div>Katja findet dich sehr nett.</div>	#adjective
+<div>friendship / дружба</div>	<div>die Freundschaft, -en</div>	<div>Was ist в einer Freundschaft wichtig?</div>	#society
+<div>particularly / особливо</div>	<div>besonders</div>	<div>Was ist euch besonders wichtig?</div>	#adverb
+<div>honesty / чесність</div>	<div>die Ehrlichkeit (Singular)</div>	<div>Sind Ehrlichkeit und Humor wichtig?</div>	#personality
+<div>shared, common / спільний</div>	<div>gemeinsam</div>	<div>Gemeinsame Hobbys sind wichtig.</div>	#adjective
+<div>reliability / надійність</div>	<div>die Zuverlässigkeit (Singular)</div>	<div>Zuverlässigkeit ist sehr wichtig.</div>	#personality
+<div>to promise / обіцяти</div>	<div>versprechen</div>	<div>Ein Freund soll machen, was er verspricht.</div>	#verbs
+<div>to listen / слухати</div>	<div>zuhören</div>	<div>Ein Freund muss gut zuhören können!</div>	#verbs
+<div>to be right / бути правдою, відповідати дійсності</div>	<div>stimmen</div>	<div>Das stimmt!</div>	#verbs
+<div>reliable / надійний</div>	<div>zuverlässig</div>	<div>Freunde müssen zuverlässig sein.</div>	#adjective
+<div>honest / чесний</div>	<div>ehrlich</div>	<div>Freunde müssen ehrlich sein.</div>	#adjective
+<div>truth / правда</div>	<div>die Wahrheit, -en</div>	<div>Man muss die Wahrheit sagen.</div>	#mind
+<div>to work, to function / працювати, функціонувати</div>	<div>funktionieren</div>	<div>Ich sage die Wahrheit und es funktioniert.</div>	#verbs
+<div>opinion / думка</div>	<div>die Meinung, -en</div>	<div>Jeder hat seine eigene Meinung.</div>	#mind
+<div>about / про</div>	<div>über</div>	<div>Man muss über alles sprechen können.</div>	#preposition
+<div>dishonest / нечесний</div>	<div>unehrlich</div>	<div>Man darf nicht unehrlich sein.</div>	#adjective
+<div>active / активний</div>	<div>aktiv</div>	<div>Freunde müssen aktiv sein.</div>	#adjective
+<div>out and about, on the move / у роз'їздах, у дорозі</div>	<div>unterwegs</div>	<div>Ich bin viel unterwegs.</div>	#travel
+<div>punctuality / пунктуальність</div>	<div>die Pünktlichkeit (Singular)</div>	<div>Pünktlichkeit ist mir wichtig.</div>	#personality
+<div>unpunctual / непунктуальний</div>	<div>unpünktlich</div>	<div>Unpünktlich sein geht gar nicht!</div>	#adjective
+<div>positive / позитивний</div>	<div>positiv</div>	<div>Für mich ist es positiv.</div>	#adjective
+<div>negative / негативний</div>	<div>negativ</div>	<div>Для mich ist es negativ.</div>	#adjective
+<div>really / справді</div>	<div>wirklich</div>	<div>Pünktlichkeit ist wirklich wichtig!</div>	#adverb
+<div>to jog / бігати підтюпцем</div>	<div>joggen</div>	<div>Sie schwimmt und joggt regelmäßig.</div>	#sports
+<div>not sporty / неспортивний</div>	<div>unsportlich</div>	<div>Ich bin sehr unsportlich.</div>	#adjective
+<div>delay / запізнення</div>	<div>die Verspätung, -en</div>	<div>Der Zug hatte Verspätung.</div>	#travel
+<div>to give notice, to resign / звільнятися</div>	<div>kündigen</div>	<div>Wir haben unsere Jobs gekündigt.</div>	#work
+<div>country / сільська місцевість, село</div>	<div>das Land (Singular)</div>	<div>Wir sind aufs Land gezogen.</div>	#location
+<div>to move / переїжджати</div>	<div>ziehen</div>	<div>Wir sind aufs Land gezogen.</div>	#verbs
+<div>right / прямо (тут), безпосередньо</div>	<div>direkt</div>	<div>Wir haben direkt am See eine Pension.</div>	#adverb
+<div>hostel, B&B / пансіонат, готель</div>	<div>die Pension, -en</div>	<div>Wir haben eine Pension für Urlauber.</div>	#travel
+<div>accommodation / житло</div>	<div>die Unterkunft, Unterkünfte</div>	<div>Unsere Unterkunft ist gemütlich.</div>	#travel
+<div>cosy, homely / затишний</div>	<div>gemütlich</div>	<div>Unser Haus ist gemütlich.</div>	#adjective
+<div>typical / типовий</div>	<div>typisch</div>	<div>Das ist typisch für die Region.</div>	#adjective
+<div>region / регіон</div>	<div>die Region, -en</div>	<div>Das ist typisch für die Region.</div>	#location
+<div>lake view / вид на озеро</div>	<div>der Seeblick (Singular)</div>	<div>Genießen Sie den Seeblick.</div>	#nature
+<div>peace (and quiet) / спокій, тиша</div>	<div>die Ruhe (Singular)</div>	<div>Genießen Sie die Ruhe.</div>	#nature
+<div>to enjoy / насолоджуватися</div>	<div>genießen</div>	<div>Hier können Sie die Ruhe genießen.</div>	#verbs
+<div>to use / використовувати</div>	<div>nutzen</div>	<div>Wir nutzen den Garten gemeinsam.</div>	#verbs
+<div>wish, desire / бажання</div>	<div>der Wunsch, Wünsche</div>	<div>Auf Wunsch machen wir Abendessen.</div>	#mind
+<div>evening meal / вечеря</div>	<div>das Abendessen, -</div>	<div>Wir machen Ihnen Abendessen.</div>	#food
+<div>to kayak / плавати на каяку</div>	<div>Kajak fahren</div>	<div>Sie können Kajak fahren.</div>	#sports
+<div>to sail / плавати під вітрилом</div>	<div>segeln</div>	<div>Sie können segeln.</div>	#sports
+<div>per / на (одиниця часу/кількості)</div>	<div>pro</div>	<div>Zweimal pro Monat.</div>	#adverb
+<div>-day / денний (-денний)</div>	<div>-tägig (z.B. 5-tägig)</div>	<div>Eine 5-tägige Kajak-Tour.</div>	#adjective
+<div>campsite / кемпінг</div>	<div>der Campingplatz, Campingplätze</div>	<div>Von Campingplatz zu Campingplatz.</div>	#travel
+<div>including / включно</div>	<div>inklusive</div>	<div>Inklusive Kajak und Frühstück.</div>	#adverb
+<div>to take place / відбуватися</div>	<div>stattfinden</div>	<div>Die Tour findet ab fünf Personen statt.</div>	#verbs
+<div>barbecue / свято-барбекю</div>	<div>der Grillfest, -e</div>	<div>Am letzten Abend gibt es ein Grillfest.</div>	#celebration
+<div>free of charge / безкоштовно</div>	<div>kostenlos</div>	<div>Sie können Fahrräder kostenlos nutzen.</div>	#money
+<div>to / в, на (кудись)</div>	<div>aufs (= auf das)</div>	<div>Wir ziehen aufs Land.</div>	#preposition
+<div>tour / тур, поїздка</div>	<div>die Tour, -en</div>	<div>Die Tour kostet 150 Euro.</div>	#travel
+<div>from … to / від … до</div>	<div>von … zu</div>	<div>Von Campingplatz zu Campingplatz.</div>	#preposition
+<div>programmer / програміст</div>	<div>der/die Programmierer, - / Programmiererin, -nen</div>	<div>Kai war Programmierer.</div>	#jobs
+<div>IT company / ІТ-компанія</div>	<div>die IT-Firma, IT-Firmen</div>	<div>Er arbeitete bei einer IT-Firma.</div>	#work
+<div>delicious / смачний</div>	<div>lecker</div>	<div>Das Essen ist wirklich lecker.</div>	#food
+<div>stress / стрес</div>	<div>der Stress (Singular)</div>	<div>Wir hatten immer Stress bei der Arbeit.</div>	#work
+<div>quite / зовсім, цілком</div>	<div>ganz</div>	<div>Nein, nicht ganz so viel.</div>	#adverb
+<div>event / захід, подія</div>	<div>das Event, -s</div>	<div>Ich hatte am Wochenende Events.</div>	#events
+<div>office / офіс</div>	<div>das Büro, -s</div>	<div>Я не хочу працювати в офісі.</div>	#work
+<div>event / захід</div>	<div>die Veranstaltung, -en</div>	<div>Я мав багато заходів.</div>	#events
+<div>move / переїзд</div>	<div>der Umzug, Umzüge</div>	<div>War der Umzug schwer?</div>	#location
+<div>goodbye / прощання</div>	<div>der Abschied, -e</div>	<div>Der Abschied war nicht leicht.</div>	#emotions
+<div>district, neighbourhood / квартал, район</div>	<div>das Viertel, -</div>	<div>Das Viertel ist total schön.</div>	#city
+<div>to change / змінювати (щось)</div>	<div>verändern</div>	<div>Verändern Sie Ihr Leben!</div>	#verbs
+<div>to change / змінювати</div>	<div>ändern</div>	<div>Möchten Sie etwas ändern?</div>	#verbs
+<div>person / людина, особа</div>	<div>die Person, -en</div>	<div>Diese Personen haben ihr Leben verändert.</div>	#society
+<div>and/or / або, відповідно</div>	<div>bzw. (= beziehungsweise)</div>	<div>Sie leben ihren Traum.</div>	#conjunction
+<div>dream / мрія</div>	<div>der Traum, Träume</div>	<div>Sie hatte einen Traum: studieren.</div>	#mind
+<div>university / університет</div>	<div>die Universität, -en</div>	<div>Sie studiert an der Universität.</div>	#education
+<div>psychology / психологія</div>	<div>die Psychologie</div>	<div>Sie studiert Psychologie.</div>	#education
+<div>psychologist / психолог</div>	<div>der/die Psychologe, -n / Psychologin, -nen</div>	<div>Sie will Psychologin werden.</div>	#jobs
+<div>unemployed / безробітний</div>	<div>arbeitslos</div>	<div>Sie sind arbeitslos geworden.</div>	#work
+<div>diving instructor / інструктор з дайвінгу</div>	<div>der/die Tauchlehrer, - / Tauchlehrerin, -nen</div>	<div>Sie möchten als Tauchlehrer arbeiten.</div>	#jobs
+<div>healthy / здоровий</div>	<div>gesund</div>	<div>Er isst sehr gesund.</div>	#health
+<div>city race / міський забіг</div>	<div>der Stadtlauf, Stadtläufe</div>	<div>Bei einem Stadtlauf bin ich Dritter geworden.</div>	#sports
+<div>to come third / стати третім</div>	<div>der/die Dritte, -n (Dritter werden)</div>	<div>Ich bin Dritter geworden.</div>	#sports
+<div>first, winner / перший, переможець</div>	<div>der/die Erste, -n</div>	<div>Ich möchte Erster werden.</div>	#sports
+<div>Thailand / Таїланд</div>	<div>Thailand</div>	<div>Вони живуть у Таїланді.</div>	#travel
+<div>cold / холодний</div>	<div>kalt</div>	<div>Draußen ist es kalt.</div>	#weather
+<div>warm / теплий</div>	<div>warm</div>	<div>Zieh dich warm an.</div>	#weather
+<div>otherwise / інакше, а то</div>	<div>sonst</div>	<div>Zieh dich warm an, sonst wirst du krank.</div>	#adverb
+<div>secretary / секретар</div>	<div>der/die Sekretär, -e / Sekretärin, -nen</div>	<div>Ich habe als Sekretär gearbeitet.</div>	#jobs
+<div>picnic / пікнік</div>	<div>das Picknick, -e/-s</div>	<div>Wir können ein Picknick machen.</div>	#hobbies
+<div>birthday party / святкування дня народження</div>	<div>die Geburtstagsfeier, -n</div>	<div>Mein Vater ist 50 geworden.</div>	#celebration
+<div>acting, drama / акторська майстерність</div>	<div>das Schauspiel (hier: Singular)</div>	<div>Wir studieren Schauspiel.</div>	#arts
+<div>famous / знаменитий</div>	<div>berühmt</div>	<div>Vielleicht werden wir berühmt.</div>	#adjective
+<div>little boy / малюк</div>	<div>der/die Kleine, -n</div>	<div>Wann wird euere Kleine drei?</div>	#society
+<div>to be there / бути присутнім</div>	<div>da sein</div>	<div>Die ganze Familie war da.</div>	#verbs
+<div>to lose / втрачати</div>	<div>verlieren</div>	<div>Я втратив роботу.</div>	#verbs
+<div>mathematics / математика</div>	<div>die Mathematik (kurz: Mathe)</div>	<div>Я вивчаю математику.</div>	#education
+<div>physics / фізика</div>	<div>die Physik (Singular)</div>	<div>Я вивчаю фізику.</div>	#education
+<div>enough / достатньо</div>	<div>genug</div>	<div>Es gibt nicht genug Stellen.</div>	#adjective
+<div>chance, opportunity / шанс, можливість</div>	<div>die Chance, -n</div>	<div>Meine Chancen sind gut.</div>	#mind
+<div>(of our) own / власний</div>	<div>eigen-</div>	<div>Sie möchten eine eigene Tauchschule.</div>	#adjective
+<div>diving school / школа дайвінгу</div>	<div>die Tauchschule, -n</div>	<div>Sie möchten eine eigene Tauchschule.</div>	#sports
+<div>beach / пляж</div>	<div>der Strand, Strände</div>	<div>Ein Ferienhaus am Strand.</div>	#nature
+<div>wishes for the future / бажання на майбутнє</div>	<div>der Zukunftswunsch, Zukunftswünsche</div>	<div>Я маю одне бажання.</div>	#mind
+<div>health / здоров'я</div>	<div>die Gesundheit (Singular)</div>	<div>Я хочу лише здоров'я.</div>	#health
+<div>trip / подорож</div>	<div>die Reise, -n</div>	<div>Я роблю щороку подорож.</div>	#travel
+<div>perfectly happy / безмежно щасливий</div>	<div>wunschlos glücklich</div>	<div>Я безмежно щасливий.</div>	#emotions
+<div>outside / за межами, зовні</div>	<div>außerhalb</div>	<div>Außerhalb von Bremen.</div>	#location
+<div>okay / окей, добре</div>	<div>okay</div>	<div>Das ist noch okay.</div>	#adjective
+<div>journalism / журналістика</div>	<div>der Journalismus (Singular)</div>	<div>Я хочу вивчати журналістику.</div>	#education
+<div>room in a shared house / кімната в гуртожитку/спільній квартирі</div>	<div>das WG-Zimmer, -</div>	<div>Die WG-Zimmer kosten viel.</div>	#travel
