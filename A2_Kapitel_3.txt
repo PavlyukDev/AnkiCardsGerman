@@ -1,0 +1,189 @@
+#separator:tab
+#html:true
+#tags column:4
+<div>timetable / розклад уроків</div>	<div>der Stundenplan, Stundenpläne</div>	<div>Auf dem Stundenplan sieht man: Wann ist was in der Schule?</div>	#school
+<div>school life / шкільне життя</div>	<div>das Schulleben, -</div>	<div>Das Schulleben an der Astrid-Lindgren-Schule ist nie langweilig.</div>	#school
+<div>partner school / школа-партнер</div>	<div>die Partnerschule, -n</div>	<div>Unsere Partnerschule in Karlstadt in Schweden stellt sich vor.</div>	#school
+<div>afternoon programme / програма на другу половину дня</div>	<div>das Nachmittagsangebot, -e</div>	<div>Die Schule hat auch ein tolles Nachmittagsangebot nach dem Unterricht.</div>	#school
+<div>contact / контакт</div>	<div>der Kontakt, -e</div>	<div>Interessierte können jederzeit mit uns in Kontakt treten.</div>	#communication
+<div>A warm welcome! / Ласкаво просимо!</div>	<div>Herzlich willkommen!</div>	<div>Herzlich willkommen auf den Seiten der Astrid-Lindgren-Schule Bonn!</div>	#communication
+<div>all about / навколо, про</div>	<div>rund um</div>	<div>Hier finden Sie Informationen rund um unsere Schule.</div>	#Kapitel_3
+<div>characteristic / особливість</div>	<div>die Besonderheit, -en</div>	<div>Hier finden Sie Informationen über unsere Schule mit all ihren Besonderheiten.</div>	#Kapitel_3
+<div>about / приблизно</div>	<div>etwa</div>	<div>In unserem Haus gibt es etwa 600 Schüler.</div>	#adverb
+<div>nation / нація</div>	<div>die Nation, -en</div>	<div>Unsere Schüler kommen aus 28 Nationen.</div>	#society
+<div>astronomy / астрономія</div>	<div>die Astronomie (Singular)</div>	<div>Von A wie Astronomie bis Z wie Zirkus hat unsere Schule viele Wahlfächer.</div>	#education
+<div>circus / цирк</div>	<div>der Zirkus, -se</div>	<div>Von A wie Astronomie bis Z wie Zirkus hat unsere Schule viele Wahlfächer.</div>	#arts
+<div>subject option / предмет за вибором</div>	<div>das Wahlfach, Wahlfächer</div>	<div>Von A wie Astronomie bis Z wie Zirkus hat unsere Schule viele Wahlfächer.</div>	#school
+<div>extra-curricular programme / додаткова пропозиція</div>	<div>das Zusatzangebot, -e</div>	<div>Unsere Schule hat viele Zusatzangebote am Nachmittag.</div>	#school
+<div>to be interested in / цікавитися (чимось)</div>	<div>(sich) interessieren für</div>	<div>Ich interessiere mich für viele AGs an unserer Schule.</div>	#verbs
+<div>open day / день відкритих дверей</div>	<div>der Tag der offenen Tür</div>	<div>Am Tag der offenen Tür kann man sich eine Schule genau ansehen.</div>	#events
+<div>school year / навчальний рік</div>	<div>das Schulyear, -e</div>	<div>Das Schuljahr dauert ein Jahr und beginnt im Sommer.</div>	#school
+<div>registration appointment / співбесіда при реєстрації</div>	<div>das Anmeldegespräch, -e</div>	<div>Termine für Anmeldegespräche bekommen Sie in unserem Sekretariat.</div>	#school
+<div>administrative office / секретаріат</div>	<div>das Sekretariat, -e</div>	<div>Termine für Anmeldegespräche bekommen Sie in unserem Sekretariat.</div>	#office
+<div>opening time / час роботи</div>	<div>die Öffnungszeit, -en</div>	<div>Das sind unsere Öffnungszeiten: Montag bis Freitag von 8:00 bis 12:00.</div>	#time
+<div>joke / жарт</div>	<div>der Witz, -e</div>	<div>Dieser Witz ist wirklich lustig.</div>	#communication
+<div>on Wednesdays / по середах</div>	<div>mittwochs</div>	<div>Kommt mittwochs von 14:00 bis 15:30 Uhr in die Redaktion.</div>	#time
+<div>editorial office / редакція</div>	<div>die Redaktion, -en</div>	<div>Ich helfe in der Redaktion der Schülerzeitung.</div>	#media
+<div>advent (pre-Christmas time) / передріздвяний час</div>	<div>die Vorweihnachtszeit (Singular)</div>	<div>Die Vorweihnachtszeit beginnt vier Wochen vor Weihnachten.</div>	#time
+<div>school orchestra / шкільний оркестр</div>	<div>das Schulorchester, -</div>	<div>Das Schulorchester spielt bei der Weihnachtsfeier.</div>	#music
+<div>student exchange / обмін учнями</div>	<div>der Schüleraustausch, -e</div>	<div>Auch in diesem Schuljahr gibt es wieder einen Schüleraustausch.</div>	#school
+<div>on this / до цього, щодо цього</div>	<div>dazu</div>	<div>Für mehr Informationen dazu klicken Sie hier.</div>	#adverb
+<div>helper / помічник</div>	<div>der/die Helfer, - / Helferin, -nen</div>	<div>Die Theater AG sucht noch Helfer für den Tag der offenen Tür.</div>	#jobs
+<div>Christmas / Різдво</div>	<div>das Weihnachten, -</div>	<div>Das Schulorchester spielt vor Weihnachten für die Schüler.</div>	#celebration
+<div>study group, club / гурток</div>	<div>die Arbeitsgemeinschaft, -en (AG)</div>	<div>In einer Arbeitsgemeinschaft treffen sich Schüler am Nachmittag.</div>	#school
+<div>same / той самий</div>	<div>selb-</div>	<div>In einer Klasse lernen Schüler im selben Alter.</div>	#adjective
+<div>biology / біологія</div>	<div>Biologie (Singular)</div>	<div>Naturwissenschaften sind zum Beispiel Biologie, Chemie, Physik.</div>	#science
+<div>chemistry / хімія</div>	<div>Chemie (Singular)</div>	<div>Meine Lieblingsfächer sind Physik, Chemie und Bio.</div>	#science
+<div>German / німецька мова</div>	<div>Deutsch (Singular)</div>	<div>Mein Lieblingsfach ist Deutsch.</div>	#languages
+<div>French / французька мова</div>	<div>Französisch (Singular)</div>	<div>Meine Lieblingsfächer waren Englisch und Französisch.</div>	#languages
+<div>geography / географія</div>	<div>Geografie (Singular)</div>	<div>Am Dienstag habe ich Geografie in der Schule.</div>	#science
+<div>history / історія</div>	<div>Geschichte (hier: Singular)</div>	<div>Am Montag habe ich Geschichte. Ich muss lernen.</div>	#science
+<div>art / мистецтво</div>	<div>Kunst (hier: Singular)</div>	<div>Heute haben wir Kunst, Latein, Musik und Mathematik.</div>	#arts
+<div>Latin / латина</div>	<div>Latein (Singular)</div>	<div>Heute haben wir Kunst, Latein, Musik und Mathematik.</div>	#languages
+<div>Religious Education / релігієзнавство</div>	<div>Religion (hier: Singular)</div>	<div>Wir mögen Physik, Religion, Informatik und Sport.</div>	#education
+<div>IT, computing / інформатика</div>	<div>Informatik (Singular)</div>	<div>Wir mögen Physik, Religion, Informatik und Sport.</div>	#education
+<div>page / сторінка</div>	<div>die Seite, -n</div>	<div>Macht die Hausaufgaben im Buch auf Seite 45.</div>	#Kapitel_3
+<div>vocabulary / іноземне слово</div>	<div>die Vokabel, -n</div>	<div>Für den Englisch-Test müssen wir die Vokabeln lernen.</div>	#languages
+<div>lesson / лекція, урок</div>	<div>die Lektion, -en</div>	<div>Für den Englisch-Test müssen wir die Vokabeln der Lektion 7 lernen.</div>	#education
+<div>to show / показувати</div>	<div>zeigen</div>	<div>Wir zeigen Fotos und Informationen zur Geschichte der Schule.</div>	#verbs
+<div>school time / шкільні роки</div>	<div>die Schulzeit (Singular)</div>	<div>Wir können Schüler und Eltern nach ihrer Schulzeit fragen.</div>	#time
+<div>interview / інтерв'ю</div>	<div>das Interview, -s</div>	<div>Wer macht die Fragen für die Interviews?</div>	#communication
+<div>to decide / вирішувати</div>	<div>entscheiden</div>	<div>Wo machen wir die Fotos? Das entscheiden wir später.</div>	#verbs
+<div>to prepare, get ready / підготувати</div>	<div>fertigmachen</div>	<div>Wir können die Fragen bis Montag fertigmachen.</div>	#verbs
+<div>to plan ahead / планувати далі</div>	<div>weiterplanen</div>	<div>Wir treffen uns alle nächsten Mittwoch und planen weiter.</div>	#verbs
+<div>to collect / збирати</div>	<div>sammeln</div>	<div>Wir sammeln Informationen zur Geschichte der Schule.</div>	#verbs
+<div>school anniversary / день народження школи</div>	<div>der Schulgeburtstag, -e</div>	<div>Das Thema der nächsten Schülerzeitung ist der Schulgeburtstag.</div>	#celebration
+<div>orchestra club / музичний гурток (оркестр)</div>	<div>die Orchester AG, -s</div>	<div>Wer von euch spielt dieses Jahr im Orchester?</div>	#music
+<div>to go (there) / йти туди</div>	<div>hingehen</div>	<div>Die Theater AG war toll. Leo und Linus gehen auch hin.</div>	#verbs
+<div>subject / предмет</div>	<div>das Fach, Fächer</div>	<div>Welche Fächer findest du interessant?</div>	#school
+<div>cool / крутий</div>	<div>cool</div>	<div>Biologie und Sport sind cool.</div>	#adjective
+<div>presentation / презентація</div>	<div>die Präsentation, -en</div>	<div>Wo ist die Präsentation der Physik-AG am Donnerstag?</div>	#education
+<div>to come up / бути на черзі (у тесті)</div>	<div>dran kommen</div>	<div>Was kommt im Test dran?</div>	#verbs
+<div>school fees / плата за навчання</div>	<div>das Schulgeld, -er</div>	<div>An privaten Schulen muss man Schulgeld bezahlen.</div>	#money
+<div>federal state / федеральна земля</div>	<div>das Bundesland, Bundesländer</div>	<div>Jedes Bundesland hat ein eigenes Schulsystem.</div>	#society
+<div>school system / шкільна система</div>	<div>das Schulsystem, -e</div>	<div>Jedes Bundesland hat ein eigenes Schulsystem.</div>	#education
+<div>primary school / початкова школа</div>	<div>die Grundschule, -n</div>	<div>Die ersten vier Jahre gehen alle Kinder in die Grundschule.</div>	#education
+<div>different / різний</div>	<div>verschieden</div>	<div>Nach der Grundschule gibt es verschiedene Schultypen.</div>	#adjective
+<div>school type / тип школи</div>	<div>der Schultyp, -en</div>	<div>Es gibt verschiedene Schultypen.</div>	#education
+<div>general secondary school / загальна середня школа</div>	<div>die Hauptschule, -n</div>	<div>Nach der Hauptschule kann man eine Ausbildung machen.</div>	#education
+<div>secondary modern school / реальна школа</div>	<div>die Realschule, -n</div>	<div>Die Realschule dauert ein Jahr länger als die Hauptschule.</div>	#education
+<div>grammar school / гімназія</div>	<div>das Gymnasium, Gymnasien</div>	<div>Nach dem Gymnasium kann man an einer Universität studieren.</div>	#education
+<div>Abitur / іспит на атестат зрілості</div>	<div>das Abitur (Singular)</div>	<div>Bis zum Abitur muss man insgesamt 13 Jahre in die Schule gehen.</div>	#education
+<div>admittedly / щоправда, однак</div>	<div>allerdings</div>	<div>Bis zum Abitur muss man allerdings 13 Jahre in die Schule gehen.</div>	#adverb
+<div>in total / загалом</div>	<div>insgesamt</div>	<div>Bis zum Abitur muss man insgesamt 13 Jahre in die Schule gehen.</div>	#adverb
+<div>qualification / завершення (школи), випуск</div>	<div>der Abschluss, Abschlüsse</div>	<div>Nächstes Jahr mache ich meinen Abschluss.</div>	#education
+<div>state / держава</div>	<div>der Staat, -en</div>	<div>Die Schulen vom Staat oder den Städten sind kostenlos.</div>	#society
+<div>different / інший, інакше</div>	<div>anders</div>	<div>Zum Glück ist Unterricht heute anders als früher.</div>	#adjective
+<div>classmate / однокласник</div>	<div>der/die Klassenkamerad, -en / Klassenkameradin, -nen</div>	<div>Meine Klassenkameraden und ich machen viel für die Schule.</div>	#school
+<div>luckily / на щастя</div>	<div>zum Glück</div>	<div>Meine Töchter gehen zum Glück gern in die Schule.</div>	#adverb
+<div>strict / суворий</div>	<div>streng</div>	<div>Unsere Lehrer in der Schule waren sehr streng.</div>	#adjective
+<div>translator / перекладач</div>	<div>der/die Übersetzer, - / Übersetzerin, -nen</div>	<div>Heute bin ich Übersetzerin für Englisch und Spanisch.</div>	#jobs
+<div>grade, mark / оцінка</div>	<div>die Note, -n</div>	<div>Meine Noten sind nicht so toll.</div>	#education
+<div>to have fun / отримувати задоволення</div>	<div>Spaß haben</div>	<div>Ich will lieber Freundinnen treffen und Spaß haben.</div>	#emotions
+<div>interested / зацікавлений</div>	<div>interessiert</div>	<div>Viele sind sehr interessiert und wollen wirklich lernen.</div>	#adjective
+<div>myself / сам, особисто</div>	<div>selbst</div>	<div>Als Kind war ich selbst Schüler hier.</div>	#pronoun
+<div>to forget / забувати</div>	<div>vergessen</div>	<div>Meine Hausaufgaben habe ich oft vergessen.</div>	#verbs
+<div>nevertheless / попри це</div>	<div>trotzdem</div>	<div>Meine Hausaufgaben habe ich oft vergessen, aber ich war trotzdem ganz gut in der Schule.</div>	#adverb
+<div>to put under stress / напружувати, дратувати</div>	<div>stressen</div>	<div>Meine Lehrer habe ich oft sehr gestresst, weil ich immer laut war.</div>	#verbs
+<div>fairly / досить</div>	<div>ziemlich</div>	<div>Meine Schulzeit ist schon ziemlich lange vorbei.</div>	#adverb
+<div>over, finished / минуло, закінчено</div>	<div>vorbei</div>	<div>Meine Schulzeit ist schon ziemlich lange vorbei.</div>	#time
+<div>tablet / планшет</div>	<div>das Tablet, -s</div>	<div>Wir hatten früher noch keine Computer und Tablets.</div>	#tech
+<div>to ask a question / ставити запитання</div>	<div>eine Frage stellen</div>	<div>Ich möchte Ihnen ein paar Fragen zu Ihrer Schulzeit stellen.</div>	#communication
+<div>to hate / ненавидіти</div>	<div>hassen</div>	<div>Mathe und Chemie habe ich gehasst.</div>	#emotions
+<div>half school year / півріччя</div>	<div>das Schulhalbjahr, -e</div>	<div>Wir bieten einen Schüleraustausch für ein Schulhalbjahr an.</div>	#school
+<div>Swedish / шведський</div>	<div>schwedisch</div>	<div>Die Schüler können ein Schulhalbjahr an einer schwedischen Schule sein.</div>	#adjective
+<div>compulsory subject / обов'язковий предмет</div>	<div>das Pflichtfach, Pflichtfächer</div>	<div>Die Schüler müssen verschiedene Pflichtfächer auswählen.</div>	#school
+<div>media / медіа</div>	<div>Medien (Plural)</div>	<div>Ein Pflichtfach ist zum Beispiel Medien.</div>	#media
+<div>tourism / туризм</div>	<div>Tourismus (Plural)</div>	<div>Ein Pflichtfach ist zum Beispiel Tourismus.</div>	#travel
+<div>social science / соціальні науки</div>	<div>Sozialwissenschaft (hier: Plural)</div>	<div>Ein Pflichtfach sind zum Beispiel Sozialwissenschaften.</div>	#science
+<div>information event / інформаційний захід</div>	<div>die Informationsveranstaltung, -en</div>	<div>Es gibt eine Informationsveranstaltung zum Schüleraustausch.</div>	#events
+<div>experience / досвід</div>	<div>die Erfahrung, -en</div>	<div>Während des Schüleraustausches konnte ich Erfahrungen sammeln.</div>	#mind
+<div>winter / зима</div>	<div>der Winter, -</div>	<div>An das kalte Wetter в Schweden im Winter konnte ich mich nicht gewöhnen.</div>	#nature
+<div>to get used to / звикати до</div>	<div>(sich) gewöhnen an</div>	<div>An das kalte Wetter im Winter konnte ich mich nicht gewöhnen.</div>	#verbs
+<div>to experience / переживати, пізнавати</div>	<div>erleben</div>	<div>Ich habe beim Schüleraustausch viel erlebt.</div>	#verbs
+<div>extremely / надзвичайно</div>	<div>extrem</div>	<div>Ich habe mein Schwedisch extrem verbessert.</div>	#adverb
+<div>to improve / покращувати</div>	<div>verbessern</div>	<div>Ich habe mein Schwedisch und Englisch extrem verbessert, ich spreche jetzt sehr gut.</div>	#verbs
+<div>ice hockey / хокей на льоду</div>	<div>das Eishockey (Singular)</div>	<div>Ich habe sogar Eishockeyspielen gelernt.</div>	#sports
+<div>fantastic, great (Kapitel_3) / чудово, класно</div>	<div>prima</div>	<div>Ich habe bei einer prima Gastfamilie gewohnt.</div>	#adjective
+<div>guest family / приймаюча сім'я</div>	<div>die Gastfamilie, -n</div>	<div>Meine Gastfamilie war sehr nett.</div>	#travel
+<div>ballet course / курс балету</div>	<div>der Ballettkurs, -e</div>	<div>Ich habe einen Theaterkurs und einen Ballettkurs besucht.</div>	#arts
+<div>end of the school year / кінець навчального року</div>	<div>das Schuljahresende (Singular)</div>	<div>Am Schuljahresende sind es nur noch wenig Tage bis zu den Ferien.</div>	#time
+<div>lead role / головна роль</div>	<div>die Hauptrolle, -n</div>	<div>Ich habe die Hauptrolle in „Peer Gynt“ gespielt.</div>	#arts
+<div>dancer / танцюрист</div>	<div>der/die Tänzer, - / Tänzerin, -nen</div>	<div>Ich weiß jetzt: Ich will Tänzer werden.</div>	#jobs
+<div>to go back / повертатися</div>	<div>zurückgehen</div>	<div>ch bin nach einem Monat wieder zurück nach Deutschland gegangen.</div>	#verbs
+<div>to feel comfortable / почуватися добре</div>	<div>(sich) wohlfühlen</div>	<div>Ich habe mich an der Schule nicht wohlgefühlt.</div>	#emotions
+<div>to miss / сумувати (за кимось)</div>	<div>vermissen</div>	<div>Ich habe meine Eltern und meine Freunde während des Austausches sehr vermisst.</div>	#emotions
+<div>Sweden / Швеція</div>	<div>Schweden</div>	<div>Mein Schüleraustausch in Schweden war klasse!</div>	#travel
+<div>natural science / природничі науки</div>	<div>Naturwissenschaften (Plural)</div>	<div>Ich habe als Wahlfach Naturwissenschaft gewählt.</div>	#science
+<div>to want to go back / хотіти повернутися</div>	<div>zurückwollen</div>	<div>In Schweden hat es mir so gut gefallen. Ich wollte nicht nach Deutschland zurück.</div>	#verbs
+<div>exchange year / рік за обміном</div>	<div>das Austauschjahr, -e</div>	<div>Ich mache ein Austauschjahr in Schweden.</div>	#school
+<div>to have to go back / мусити повернутися</div>	<div>zurückmüssen</div>	<div>Wir müssen alle zurück nach Deutschland.</div>	#verbs
+<div>to pack / пакувати</div>	<div>packen</div>	<div>Ich habe gerade meinen Koffer gepackt.</div>	#verbs
+<div>exciting / захопливий</div>	<div>aufregend</div>	<div>Der Ausflug war aufregend.</div>	#adjective
+<div>first / спочатку</div>	<div>zuerst</div>	<div>Zuerst hatte der Bus eine Panne.</div>	#time
+<div>breakdown / поломка</div>	<div>die Panne, -n</div>	<div>Der Bus hatte eine Panne, wir konnten nicht weiterfahren.</div>	#travel
+<div>bus trip / поїздка на автобусі</div>	<div>die Busfahrt, -en</div>	<div>Nach sechs Stunden Busfahrt sind wir angekommen.</div>	#travel
+<div>terrible / жахливий</div>	<div>furchtbar</div>	<div>Es hat furchtbar geschneit.</div>	#adjective
+<div>to snow / сніжити</div>	<div>schneien</div>	<div>Es hat furchtbar geschneit, alles war weiß.</div>	#weather
+<div>only / лише, тільки</div>	<div>erst</div>	<div>Ich habe erst letztes Jahr einen Schüleraustausch gemacht.</div>	#adverb
+<div>nervous / нервовий</div>	<div>nervös</div>	<div>Unser Lehrer war auf dem Ausflug total nervös.</div>	#emotions
+<div>police / поліція</div>	<div>die Polizei</div>	<div>Unser Lehrer hat die Polizei angerufen.</div>	#society
+<div>maybe / можливо</div>	<div>vielleicht</div>	<div>Das war vielleicht ein Drama!</div>	#adverb
+<div>drama / драма</div>	<div>das Drama, Dramen</div>	<div>Unser Lehrer hat die Polizei angerufen. Das war vielleicht ein Drama.</div>	#arts
+<div>to find again / знайти знову</div>	<div>wiederfinden</div>	<div>Nach zwei Stunden haben wir unsere Freunde wiedergefunden.</div>	#verbs
+<div>underground train / метро</div>	<div>die U-Bahn, -en</div>	<div>Sie sind zu spät aus der U-Bahn ausgestiegen.</div>	#transport
+<div>to get lost / заблукати</div>	<div>(sich) verirren</div>	<div>Sie sind zu spät aus der U-Bahn ausgestiegen und haben sich in Stockholm verirrt.</div>	#travel
+<div>for a long time / довго</div>	<div>lange</div>	<div>Die Schüler mussten lange auf Hilfe warten.</div>	#time
+<div>exchange student / учень за обміном</div>	<div>der/die Austauschschüler, - / Austauschschülerin, -nen</div>	<div>Ich war Austauschschüler an einer Schule in Schweden.</div>	#school
+<div>early / рано</div>	<div>früh</div>	<div>Die Mädchen sind zu früh aus der U-Bahn ausgestiegen.</div>	#time
+<div>strong, heavily / сильно</div>	<div>stark</div>	<div>Es hat stark geschneit.</div>	#adverb
+<div>journey / поїздка</div>	<div>die Fahrt, -en</div>	<div>Die Fahrt hat sechs Stunden gedauert.</div>	#travel
+<div>girl / дівчина</div>	<div>das Mädchen, -</div>	<div>Er war nervös, weil er die Mädchen verloren hat.</div>	#society
+<div>classmate / однокласник</div>	<div>der/die Mitschüler, - / Mitschülerin, -nen</div>	<div>Ich habe mit meinen Mitschülern viel Spaß.</div>	#school
+<div>museum / музей</div>	<div>das Museum, Museen</div>	<div>Ich bezahle den Eintritt für das Museum.</div>	#travel
+<div>autumn / осінь</div>	<div>der Herbst</div>	<div>Ich mache ab Herbst eine Ausbildung zum Koch.</div>	#nature
+<div>chef / кухар</div>	<div>der/die Koch, Köche / Köchin, -nen</div>	<div>Ich mache eine Ausbildung zum Koch.</div>	#jobs
+<div>continue (working) / далі (продовжувати)</div>	<div>weiter</div>	<div>Ich möchte weiter als Kellnerin arbeiten.</div>	#adverb
+<div>medicine / медицина</div>	<div>die Medizin</div>	<div>Ich studiere Medizin, ich will Arzt werden.</div>	#science
+<div>pub / пивна, паб</div>	<div>die Kneipe, -n</div>	<div>Am Wochenende arbeite ich als Kellner in einer Kneipe.</div>	#city
+<div>bank clerk / банківський працівник</div>	<div>der/die Bankkaufmann, Bankkaufmänner / Bankkauffrau, -en</div>	<div>Er kann eine Ausbildung zum Bankkaufmann machen.</div>	#jobs
+<div>job application / заява про прийом на роботу</div>	<div>die Bewerbung, -en</div>	<div>Severins Prüfungen sind erst im Mai, aber er kann schon Bewerbungen schreiben.</div>	#work
+<div>office clerk / офіс-менеджер</div>	<div>der/die Bürokaufmann, Bürokaufmänner / Bürokauffrau, -en</div>	<div>Ich mache eine Ausbildung zur Bürokauffrau.</div>	#jobs
+<div>very good / дуже добре</div>	<div>sehr gut</div>	<div>Meine Note in Mathematik: sehr gut.</div>	#education
+<div>good / добре</div>	<div>gut</div>	<div>Meine Note в Deutsch: gut.</div>	#education
+<div>satisfactory / задовільно</div>	<div>befriedigend</div>	<div>Meine Note in Biologie: befriedigend.</div>	#education
+<div>fair / достатньо</div>	<div>ausreichend</div>	<div>Meine Note in Physik: ausreichend.</div>	#education
+<div>poor / недостатньо</div>	<div>mangelhaft</div>	<div>Meine Note in Englisch: mangelhaft.</div>	#education
+<div>unsatisfactory / незадовільно</div>	<div>ungenügend</div>	<div>Meine Note in Geografie: ungenügend.</div>	#education
+<div>school report / атестат, табель</div>	<div>das Zeugnis, Zeugnisse</div>	<div>Endlich Ferien und nie wieder Schule! Und wie ist dein Zeugnis?</div>	#education
+<div>to finish / закінчувати</div>	<div>beenden</div>	<div>Er hat das Studium nicht beendet.</div>	#verbs
+<div>to pass (exam) / скласти (іспит)</div>	<div>bestehen</div>	<div>Ich habe die Prüfung nicht bestanden und muss sie wiederholen.</div>	#verbs
+<div>five (grade) / п'ятірка (оцінка)</div>	<div>die Fünf, -en</div>	<div>Ich habe in Mathe eine Fünf im Zeugnis.</div>	#education
+<div>to stay down a year / залишитися на другий рік</div>	<div>sitzenbleiben</div>	<div>Er bleibt sitzen, muss also das Schuljahr wiederholen.</div>	#education
+<div>I am sorry / шкода</div>	<div>leidtun</div>	<div>Das tut mir leid.</div>	#emotions
+<div>one (grade) / одиниця (оцінка)</div>	<div>die Eins, -en</div>	<div>Ich habe in Deutsch eine Eins bekommen.</div>	#education
+<div>three (grade) / трійка (оцінка)</div>	<div>die Drei, -en</div>	<div>Ich habe im Test nur eine Drei bekommen.</div>	#education
+<div>two (grade) / двійка (оцінка)</div>	<div>die Zwei, -en</div>	<div>Für eine Zwei hatte ich einen Punkt zu wenig.</div>	#education
+<div>point / бал, пункт</div>	<div>der Punkt, -e</div>	<div>Für eine Zwei hatte ich einen Punkt zu wenig</div>	#education
+<div>nurse / медбрат, медсестра</div>	<div>der/die Krankenpfleger, - / Krankenschwester, -n</div>	<div>Ich mache eine Ausbildung zum Krankenpfleger.</div>	#jobs
+<div>CV / резюме</div>	<div>der Lebenslauf, Lebenläufe</div>	<div>Sellina muss einen Lebenslauf schreiben.</div>	#work
+<div>skills / знання, навички</div>	<div>die Kenntnis, -se</div>	<div>Besondere Kenntnisse sind Englischkenntnisse.</div>	#work
+<div>work, activity / діяльність</div>	<div>die Tätigkeit, -en</div>	<div>Berufliche Tätigkeiten: Schreiben von Briefen ...</div>	#work
+<div>appointment coordination / координація зустрічей</div>	<div>die Terminkoordination (Singular)</div>	<div>Meine Tätigkeit ist die Terminkoordination.</div>	#work
+<div>organisation / організація</div>	<div>die Organisation</div>	<div>Meine Aufgabe ist die Organisation von Reisen.</div>	#work
+<div>clerk / службовець</div>	<div>der/die Kaufmann, Kaufmänner / Kaufleute / Kauffrau, -en</div>	<div>Er macht eine Ausbildung zum Bankkaufmann.</div>	#jobs
+<div>office communication / офісна комунікація</div>	<div>die Bürokommunikation</div>	<div>Ich mache die Ausbildung zur Kauffrau für Bürokommunikation.</div>	#work
+<div>school qualification / шкільна освіта (закінчена)</div>	<div>der Schulabschluss, Schulabschlüsse</div>	<div>Mein Schulabschluss: Mittlere Reife.</div>	#education
+<div>Mittlere Reife / атестат про повну середню освіту</div>	<div>die Mittlere Reife</div>	<div>Den Abschluss erhält man nach der Realschule.</div>	#education
+<div>spoken and written / усно та письмово</div>	<div>in Wort und Schrift</div>	<div>Sie kann Englisch sehr gut in Wort und Schrift.</div>	#languages
+<div>foreign language / іноземна мова</div>	<div>die Fremdsprache, -n</div>	<div>Sie kann viele Fremdsprachen: Englisch, Spanisch ...</div>	#languages
+<div>personal / особистий</div>	<div>persönlich</div>	<div>Hier sind meine persönlichen Daten.</div>	#Kapitel_3
+<div>nationality / національність</div>	<div>die Nationalität, -en</div>	<div>Welche Nationalität hast du?</div>	#society
+<div>specialist / лікар-фахівець</div>	<div>der/die Facharzt, Fachärzte / Fachärztin, -nen</div>	<div>Sie ist Fachärztin für Pädiatrie.</div>	#jobs
+<div>clinic / клініка</div>	<div>das Klinikum, Kliniken</div>	<div>Er arbeitet im Klinikum Bremerhaven.</div>	#health
+<div>level / рівень</div>	<div>das Niveau, -s</div>	<div>Ich spreche Französisch auf B1-Niveau.</div>	#education
+<div>information / дані, відомості</div>	<div>die Angabe, -n</div>	<div>Im Lebenslauf schreibst du links die Angaben.</div>	#communication
+<div>shopping, purchase / покупка</div>	<div>der Einkauf, Einkäufe</div>	<div>Hier ist mein Einkauf: Milch, Brot.</div>	#shopping
+<div>school education / шкільна освіта</div>	<div>die Schulbildung (Singular)</div>	<div>Schreib Angaben zur Ausbildung und Schulbildung.</div>	#education
+<div>picture / зображення, фото</div>	<div>das Bild, -er</div>	<div>Oben links deine Daten und rechts ein Bild.</div>	#Kapitel_3
+<div>to enter / вводити (дані)</div>	<div>eingeben</div>	<div>Ich gebe im Formular meinen Namen ein.</div>	#verbs
