@@ -1,0 +1,179 @@
+#separator:tab
+#html:true
+#tags column:4
+<div>au pair / ау-пар</div>	<div>die/das/der Au-pair, -s</div>	<div>Au-pairs arbeiten für eine Familie im Ausland und passen auf die Kinder auf.</div>	#work
+<div>language school / мовна школа</div>	<div>die Sprachschule, -n</div>	<div>Frau Stein möchte in einer Sprachschule Spanisch lernen.</div>	#education
+<div>housework / домашні справи</div>	<div>die Hausarbeit, -en</div>	<div>Frau Stein hilft bei der Hausarbeit.</div>	#home
+<div>to have time off / мати час відпочинку</div>	<div>frei haben</div>	<div>Frau Stein hat einen Tag pro Woche frei, dann macht sie worauf sie Lust hat.</div>	#leisure
+<div>kindergarten / дитячий садок</div>	<div>der Kindergarten, Kindergärten</div>	<div>Die Au-pair-Oma bringt die Kinder am Morgen in den Kindergarten.</div>	#education
+<div>to help / допомагати</div>	<div>mithelfen</div>	<div>Die Au-pair-Oma hilft im Haushalt mit.</div>	#assistance
+<div>language course / мовний курс</div>	<div>der Sprachkurs, -e</div>	<div>In ihrer Freizeit besuchen Au-pairs im fremden Land oft einen Sprachkurs.</div>	#education
+<div>Mexico / Мексика</div>	<div>Mexiko</div>	<div>Frau Stein bleibt für ein halbes Jahr in Mexiko.</div>	#country
+<div>to start off / починати</div>	<div>losgehen</div>	<div>Wann genau geht dein Au-Pair-Jahr denn los?</div>	#begin
+<div>flight / рейс</div>	<div>der Flug, Flüge</div>	<div>Wie lange dauert der Flug nach Toronto?</div>	#travel
+<div>then / потім</div>	<div>denn</div>	<div>Wann genau geht's denn los?</div>	#time
+<div>to change / змінювати</div>	<div>umsteigen</div>	<div>Musst du während der Fahrt in einen anderen Zug umsteigen?</div>	#travel
+<div>holiday(s) / свято(а)</div>	<div>die Ferien (Plural)</div>	<div>Wie lange haben die Kinder Ferien?</div>	#vacation
+<div>culture / культура</div>	<div>die Kultur, -en</div>	<div>Viele Au-Pairs wollen eine neue Kultur und neue Menschen kennenlernen.</div>	#culture
+<div>some / деякий</div>	<div>einige</div>	<div>Seit einigen Jahren nutzen auch Frauen über 60 die Chance, Au-pair-Oma zu werden.</div>	#quantity
+<div>childcare / догляд за дітьми</div>	<div>die Kinderbetreuung, -en</div>	<div>Au-Pairs helfen bei der Kinderbetreuung und im Haushalt.</div>	#family
+<div>host parents / приймаючі батьки</div>	<div>die Gasteltern (Plural)</div>	<div>Vielen Gasteltern gefällt, dass Au-pair-Omas oft viel Erfahrung mit eigenen Kindern haben.</div>	#family
+<div>grandchild / онук/онука</div>	<div>das Enkelkind, -er</div>	<div>Au-pair-Omas haben oft viel Erfahrung mit eigenen Enkelkindern.</div>	#family
+<div>that / що</div>	<div>dass</div>	<div>Schön, dass Sie hier bei uns sind.</div>	#grammar
+<div>life experience / життєвий досвід</div>	<div>die Lebenserfahrung (Singular)</div>	<div>Frauen mit Lebenserfahrung sind für die Arbeit als Au-pair ideal.</div>	#personal
+<div>ideal / ідеальний</div>	<div>ideal</div>	<div>Frauen mit Lebenserfahrung sind für die Arbeit als Au-pair ideal.</div>	#quality
+<div>USA / США</div>	<div>die USA (Plural)</div>	<div>Ich habe selbst für ein Jahr als Au-pair in den USA gearbeitet.</div>	#country
+<div>to depart, to leave / виїжджати, залишати</div>	<div>abreisen</div>	<div>Es ist schade, dass unsere Au-pair-Oma nächste Woche nach Hause abreist.</div>	#travel
+<div>opportunity / можливість</div>	<div>die Möglichkeit, -en</div>	<div>Schön, dass es die Möglichkeit als Au-Pair zu arbeiten auch für Frauen über 60 gibt.</div>	#chance
+<div>grown-up / дорослий</div>	<div>erwachsen</div>	<div>Meine Kinder sind erwachsen und brauchen mich nicht mehr.</div>	#age
+<div>Australia / Австралія</div>	<div>Australien</div>	<div>Vielleicht gehe ich für ein Jahr nach Australien.</div>	#country
+<div>Malaysia / Малайзія</div>	<div>Malaysia</div>	<div>Ich gehe für ein halbes Jahr als Au-pair-Oma nach Malaysia.</div>	#country
+<div>to be certain / бути впевненим</div>	<div>(sich) sicher sein</div>	<div>Ich bin sicher, dass die Zeit als Au-pair-Oma spannend wird!</div>	#feeling
+<div>over / понад</div>	<div>zu Ende</div>	<div>Leider ist die Zeit mit unserer Au-pair-Oma bald zu Ende.</div>	#time
+<div>sad / сумний</div>	<div>traurig</div>	<div>Ich bin traurig, weil unsere Au-pair-Oma leider bald wieder nach Hause fährt.</div>	#emotion
+<div>home / дім</div>	<div>nach Hause</div>	<div>Schade, dass unsere Au-pair-Oma bald wieder nach Hause fährt.</div>	#place
+<div>report / звіт</div>	<div>der Bericht, -e</div>	<div>Ich höre oft Berichte über die Arbeit im Ausland.</div>	#document
+<div>project / проєкт</div>	<div>das Projekt, -e</div>	<div>Ich will bei einem Projekt in Afrika mitarbeiten.</div>	#work
+<div>to collaborate / співпрацювати</div>	<div>mitarbeiten</div>	<div>Ich bin glücklich, dass ich bei diesem Projekt mitarbeiten kann.</div>	#work
+<div>to fly back / летіти назад</div>	<div>zurückfliegen</div>	<div>Ich bin froh, dass ich bald nach Hause zurückfliege.</div>	#travel
+<div>social / соціальний</div>	<div>sozial</div>	<div>Soziale Projekte im Ausland helfen anderen Menschen.</div>	#society
+<div>committed / відданий</div>	<div>engagiert</div>	<div>Anna arbeitet in vielen sozialen Projekten. Sie ist sehr engagiert.</div>	#quality
+<div>Canada / Канада</div>	<div>Kanada</div>	<div>Bei unseren Work and Travel-Angeboten kannst du Kinder im Sommercamp in Kanada betreuen.</div>	#country
+<div>Norway / Норвегія</div>	<div>Norwegen</div>	<div>Bei unseren Work and Travel-Angeboten kannst du im Nationalpark in Norwegen helfen.</div>	#country
+<div>England / Англія</div>	<div>England</div>	<div>Bei unseren Work and Travel-Angeboten kannst du in England arbeiten und Englisch lernen.</div>	#country
+<div>Argentina / Аргентина</div>	<div>Argentinien</div>	<div>Bei unseren Work and Travel-Angeboten kannst du nach Argentinien reisen.</div>	#country
+<div>to look after / піклуватися</div>	<div>betreuen</div>	<div>Bei uns kannst du Kinder im Sommercamp in Kanada betreuen.</div>	#care
+<div>food and board / їжа та проживання</div>	<div>die Kost und Logis (Singular)</div>	<div>Du bekommst kein Geld, sondern du arbeitest für freie Kost und Logis.</div>	#living
+<div>foreign language skills / навички іноземної мови</div>	<div>die Fremdsprachenkenntnis, -se</div>	<div>Im Ausland verbesserst du deine Fremdsprachenkenntnisse.</div>	#education
+<div>advantage, benefit / перевага, користь</div>	<div>der Vorteil, -e</div>	<div>Bei der Arbeit im Ausland lernt man eine fremde Sprache. Das ist ein großer Vorteil!</div>	#benefit
+<div>disadvantage / недолік</div>	<div>der Nachteil, -e</div>	<div>Bei der Arbeit im Ausland ist die Familie weit weg. Das ist ein Nachteil.</div>	#drawback
+<div>to apply / подавати заявку</div>	<div>(sich) bewerben</div>	<div>Wie bewerbe ich mich richtig für einen Job im Ausland?</div>	#job
+<div>language skills / мовні навички</div>	<div>die Sprachenkenntnis, -se</div>	<div>Im Ausland kannst du deine Sprachkenntnisse verbessern.</div>	#education
+<div>trainee / стажер</div>	<div>der/die Auszubildende, -n</div>	<div>Auszubildende können ein Hotelpraktikum im Ausland machen.</div>	#job
+<div>maybe / можливо</div>	<div>eventuell (= evtl.)</div>	<div>Eventuell brauchst du für das Ausland ein Visum, das ist von Land zu Land unterschiedlich.</div>	#possibility
+<div>visa / віза</div>	<div>das Visum, Visa/Visen</div>	<div>Eventuell brauchst du für das Ausland ein Visum, das ist von Land zu Land unterschiedlich.</div>	#travel
+<div>pay / платити</div>	<div>die Bezahlung (hier: Singular)</div>	<div>Die Bezahlung ist nicht gut, aber du bekommst ein bisschen Geld.</div>	#money
+<div>salary / зарплата</div>	<div>das Gehalt, Gehälter</div>	<div>Als Bezahlung für dein Praktikum bekommst du ein kleines Gehalt.</div>	#money
+<div>to spend / проводити</div>	<div>verbringen</div>	<div>Ich möchte sehr gern ein Jahr im Ausland verbringen.</div>	#time
+<div>farm / ферма</div>	<div>die Farm, -en</div>	<div>Ich habe auf einer Farm mit Tieren gearbeitet.</div>	#agriculture
+<div>absolutely / абсолютно</div>	<div>absolut</div>	<div>Ich kann dir ein Jahr im Ausland absolut empfehlen!</div>	#emphasis
+<div>Italy / Італія</div>	<div>Italien</div>	<div>Ich heiße Fabio und komme aus Italien.</div>	#country
+<div>pocket money / кишенькові гроші</div>	<div>das Taschengeld (Singular)</div>	<div>Als Au-pair bekommt man kein Gehalt, aber ein kleines Taschengeld.</div>	#money
+<div>agency / агенція</div>	<div>die Agentur, -en</div>	<div>Ich habe mit meiner Agentur gesprochen und bin jetzt bei einer anderen Familie.</div>	#business
+<div>4-star hotel / готель 4 зірки</div>	<div>das 4-Sterne-Hotel, -s</div>	<div>Herzlich willkommen in unserem 4-Sterne-Hotel!</div>	#hotel
+<div>visitor / відвідувач</div>	<div>der/die Besucher, - / Besucherin, -nen</div>	<div>Für Besucher der Messe ist unser Hotel ideal gelegen.</div>	#people
+<div>exhibition / виставка</div>	<div>die Messe, -n</div>	<div>Für Besucher der Messe ist unser Hotel ideal gelegen</div>	#event
+<div>to get to / дістатися</div>	<div>erreichen</div>	<div>Die Messe erreichen Sie mit der U-Bahn in nur 15 Minuten.</div>	#travel
+<div>camp bed / розкладне ліжко</div>	<div>das Zustellbett, -en</div>	<div>Im Einzelzimmer gibt es ein Zustellbett für Kinder.</div>	#furniture
+<div>safe / сейф</div>	<div>der Safe, -s</div>	<div>In dem Zimmer gibt es einen Safe, so können Sie Ihre Sachen sicher im Zimmer lassen.</div>	#security
+<div>desk / стіл</div>	<div>der Schreibtisch, -e</div>	<div>In dem Zimmer gibt es einen Schreibtisch für Büroarbeit.</div>	#furniture
+<div>shower / душ</div>	<div>das Duschbad, Duschbäder</div>	<div>In einem Duschbad gibt es nur eine Dusche und keine Badewanne.</div>	#bathroom
+<div>toilet, WC / туалет, вбиральня</div>	<div>das WC, -s</div>	<div>In jedem Zimmer finden Sie ein WC und ein Duschbad.</div>	#bathroom
+<div>air conditioning / кондиціонер</div>	<div>die Klimaanlage, -n</div>	<div>Unsere Zimmer haben auch eine Klimaanlage. So ist es im Sommer immer kühl.</div>	#appliance
+<div>minibar / міні-бар</div>	<div>die Minibar, -s</div>	<div>Im Zimmer gibt es eine Minibar mit kalten Getränken und Snacks.</div>	#hotel
+<div>snack / закуска</div>	<div>der Snack, -s</div>	<div>Jedes Zimmer hat eine Minibar mit kalten Getränken und Snacks.</div>	#food
+<div>breakfast buffet / сніданковий буфет</div>	<div>das Frühstücksbuffet, -s</div>	<div>Unser Frühstücksbuffet ist täglich von 6:30 Uhr bis 10:30 Uhr geöffnet.</div>	#food
+<div>extensive / розширений</div>	<div>reichhaltig</div>	<div>Unser Frühstücksbuffet ist reichhaltig, es gibt eine sehr große Auswahl.</div>	#quality
+<div>daily / щоденний</div>	<div>täglich</div>	<div>Unser Frühstücksbuffet ist täglich von 6:30 Uhr bis 10:30 Uhr geöffnet.</div>	#time
+<div>to leave / залишати</div>	<div>lassen</div>	<div>Am Abreisetag können Sie Ihr Gepäck im Gepäckraum lassen.</div>	#action
+<div>car-park / парковка</div>	<div>der Parkplatz, Parkplätze</div>	<div>Sie können unseren Parkplatz draußen oder unser Parkhaus benutzen.</div>	#transport
+<div>multi-storey car-park / багатоповерхова парковка</div>	<div>das Parkhaus, Parkhäuser</div>	<div>Sie können unseren Parkplatz draußen oder unser Parkhaus benutzen.</div>	#transport
+<div>price list / прайс-лист</div>	<div>die Preisliste, -n</div>	<div>Die Kosten für unseren Wäscheservice finden Sie hier auf der Preisliste.</div>	#document
+<div>laundry service / пральна служба</div>	<div>der Wäscheservice (Singular)</div>	<div>Eine Preisliste für unseren Wäscheservice finden Sie hier.</div>	#service
+<div>to wish, to desire / бажати</div>	<div>wünschen</div>	<div>Dann wünsche ich Ihnen eine gute Reise nach Mexiko.</div>	#action
+<div>fully booked / повністю заброньовано</div>	<div>ausgebucht</div>	<div>Leider sind sehr viele Hotels schon ausgebucht und es gibt keine Zimmer mehr.</div>	#hotel
+<div>quarter of an hour / чверть години</div>	<div>die Viertelstunde (Singular)</div>	<div>Mit der Straßenbahn ist es nur eine Viertelstunde (15 Minuten) bis zur Messe.</div>	#time
+<div>WiFi / WiFi</div>	<div>das WLAN (Singular)</div>	<div>Das WLAN ist kostenlos.</div>	#technology
+<div>to let (someone) know / повідомляти</div>	<div>Bescheid geben</div>	<div>Bitte geben Sie mir schnell Bescheid, ob Sie kommen können.</div>	#communication
+<div>enquiry / запит</div>	<div>die Anfrage, -n</div>	<div>Ich mache eine Anfrage für eine Zimmerreservierung.</div>	#communication
+<div>room booking / бронювання номера</div>	<div>die Zimmerreservierung, -en</div>	<div>Sie hat eine Anfrage für eine Zimmerreservierung.</div>	#hotel
+<div>hereby / цим</div>	<div>hiermit</div>	<div>Hiermit möchte ich zwei Einzelzimmer reservieren.</div>	#formal
+<div>to arrive / прибувати</div>	<div>anreisen</div>	<div>Wann reisen Sie an? Am Donnerstag, den 08.01..</div>	#travel
+<div>reservation / бронювання</div>	<div>die Reservierung, -en</div>	<div>Bitte bestätigen Sie die Reservierung des Zimmers per E-Mail.</div>	#hotel
+<div>to confirm / підтвердити</div>	<div>bestätigen</div>	<div>Bitte bestätigen Sie die Reservierung des Zimmers per E-Mail.</div>	#action
+<div>in advance / заздалегідь</div>	<div>im Voraus</div>	<div>Vielen Dank im Voraus für Ihre Antwort.</div>	#time
+<div>arrival / приїзд</div>	<div>die Anreise, -n</div>	<div>Die Anreise im Hotel ist gegen 15:00 Uhr.</div>	#travel
+<div>departure / від’їзд</div>	<div>die Abreise, -n</div>	<div>Die Abreise vom Hotel ist am 20. Dezember.</div>	#travel
+<div>around / приблизно</div>	<div>gegen</div>	<div>Die Abreise ist gegen 15:00 Uhr, vielleicht etwas früher.</div>	#time
+<div>overnight stay / нічліг</div>	<div>die Übernachtung, -en</div>	<div>Eine Übernachtung im Einzelzimmer mit Frühstück kostet 130 € pro Person/Nacht.</div>	#hotel
+<div>to stay overnight / залишитися на ніч</div>	<div>übernachten</div>	<div>Wann möchten Sie im Hotel übernachten?</div>	#hotel
+<div>to fill out / заповнити</div>	<div>ausfüllen</div>	<div>Herr Tillich muss bei der Ankunft im Hotel ein Formular ausfüllen.</div>	#action
+<div>smoking room / номер для курців</div>	<div>das Raucherzimmer, -</div>	<div>Herr Tillich bekommt ein Raucherzimmer.</div>	#hotel
+<div>to carry / нести</div>	<div>tragen</div>	<div>Herr Tillich und Frau Gerhard tragen ihre Koffer selbst zum Zimmer.</div>	#action
+<div>moment / момент</div>	<div>der Augenblick, -e</div>	<div>Einen Augenblick, bitte. Ich bin gleich für Sie da.</div>	#time
+<div>extra / додатковий</div>	<div>extra</div>	<div>Das Frühstück kostet 8 Euro extra.</div>	#additional
+<div>passport / паспорт</div>	<div>der Reisepass, Reisepässe</div>	<div>Dann brauche ich noch Ihren Ausweis oder Reisepass.</div>	#document
+<div>to thank / подякувати</div>	<div>(sich) bedanken</div>	<div>Ich bedanke mich für Ihre Hilfe.</div>	#politeness
+<div>receptionist / рецепціоніст</div>	<div>der/die Rezeptionist, -en / Rezeptionistin, -nen</div>	<div>Ich arbeite als Rezeptionistin im Hotel.</div>	#job
+<div>to name, to give names of / назвати, надати імена</div>	<div>nennen</div>	<div>Die Frau an der Rezeption nennt zwei Restaurants in der Nähe.</div>	#action
+<div>pizzeria / піцерія</div>	<div>die Pizzeria, -s (auch: die Pizzerien)</div>	<div>In der Nähe gibt es die Pizzeria „Alfredo“, den „Chinapalast“ und ein Bistro.</div>	#restaurant
+<div>bistro / бістро</div>	<div>das Bistro, -s</div>	<div>In einem Bistro kann man kleine Snacks und Getränke kaufen.</div>	#restaurant
+<div>everywhere / скрізь</div>	<div>überall</div>	<div>Das Essen ist überall gut.</div>	#location
+<div>best / найкращий</div>	<div>am besten</div>	<div>Das Bistro ist etwas teuer, aber das Essen ist dort am besten.</div>	#quality
+<div>dish / страва</div>	<div>das Gericht, -e</div>	<div>Gibt es in der Pizzeria auch andere Gerichte oder nur Pizza?</div>	#food
+<div>way / спосіб</div>	<div>der Weg, -e</div>	<div>Können Sie mir den Weg zur Pizzeria erklären?</div>	#direction
+<div>approximately / приблизно</div>	<div>ungefähr</div>	<div>Zur Pizzeria sind es ungefähr 10 Minuten, vielleicht etwas länger.</div>	#approximation
+<div>from ... to / від ... до</div>	<div>von ... nach</div>	<div>Ich fahre mit dem Zug von Hamburg nach München.</div>	#direction
+<div>ticket / квиток</div>	<div>die Fahrkarte, -n</div>	<div>Wenn man mit dem Zug fährt, braucht man eine Fahrkarte.</div>	#transport
+<div>tram / трамвай</div>	<div>die Tram, -s</div>	<div>Sie können mit der Tram oder mit der U-Bahn zur Messe fahren.</div>	#transport
+<div>transport association / транспортне об’єднання</div>	<div>der Verkehrsverbund, Verkehrsverbünde</div>	<div>Für Fahrkarten für S-Bahn, U-Bahn, Tram und Bus wählen Sie „Verkehrsverbund“ aus.</div>	#transport
+<div>required / необхідний</div>	<div>gewünscht</div>	<div>Wählen Sie jetzt die gewünschte Fahrkarte aus.</div>	#necessity
+<div>single ticket / одноразовий квиток</div>	<div>der Einzelfahrschein, -e</div>	<div>Mit einem Einzelfahrschein können Sie nur eine Strecke fahren.</div>	#transport
+<div>3-day ticket / 3-денний квиток</div>	<div>die 3-Tagekarte, -n</div>	<div>Mit 3-Tagekarten kann man drei Tage fahren.</div>	#transport
+<div>weekly ticket / тижневий квиток</div>	<div>die Wochenkarte, -n</div>	<div>Mit einer Wochenkarte können Sie eine Woche alle Verkehrsmittel nutzen.</div>	#transport
+<div>monthly ticket / місячний квиток</div>	<div>die Monatskarte, -n</div>	<div>Mit einer Monatskarte kann man einen Monat mit öffentlichen Verkehrsmitteln fahren.</div>	#transport
+<div>total price / загальна ціна</div>	<div>der Gesamtpreis, -e</div>	<div>Hier steht der Gesamtpreis für alle Fahrkarten.</div>	#money
+<div>screen / екран</div>	<div>der Bildschirm, -e</div>	<div>Der Bildschirm an meinem Computer ist schwarz und ich kann nichts mehr sehen.</div>	#technology
+<div>to select / вибрати</div>	<div>antippen</div>	<div>Tippen Sie auf dem Bildschirm „Bezahlen“ an, um Ihre Fahrkarte zu bezahlen.</div>	#action
+<div>bank note / банкнота</div>	<div>die Banknote, -n</div>	<div>Das Bezahlen mit Banknoten über 10 € ist nicht möglich.</div>	#money
+<div>railcard / залізнична картка</div>	<div>die Bahncard, -s</div>	<div>Mit einer Bahncard sind die Preise für die Züge billiger.</div>	#transport
+<div>passenger / пасажир</div>	<div>der Fahrgast, Fahrgäste</div>	<div>Der Zug endet hier. Alle Fahrgäste müssen aussteigen.</div>	#travel
+<div>so, for this reason / отже, з цієї причини</div>	<div>deshalb</div>	<div>In Uelzen hat es einen Unfall gegeben. Deshalb müssen alle Fahrgäste aussteigen.</div>	#reason
+<div>S-Bahn line / лінія S-Bahn</div>	<div>die S-Bahn-Linie, -n</div>	<div>Am Hauptbahnhof kann man in jede S-Bahn-Linie einsteigen.</div>	#transport
+<div>Czech / чеський</div>	<div>Tschechisch</div>	<div>Ich spreche Tschechisch.</div>	#language
+<div>web designer / веб-дизайнер</div>	<div>der/die Webdesigner, - / Webdesignerin, -nen</div>	<div>Ich bin Webdesigner von Beruf und gestalte Webseiten.</div>	#job
+<div>Czech Republic / Чеська Республіка</div>	<div>Tschechien</div>	<div>Ich lebe in Tschechien.</div>	#country
+<div>sofa surfing / софа-серфінг</div>	<div>das Couchsurfen</div>	<div>Beim Couchsurfen kann man eine Stadt sehr gut kennenlernen.</div>	#travel
+<div>host / господар</div>	<div>der Host, -s</div>	<div>Die Hosts bieten ihre Couch im Internet an.</div>	#people
+<div>tip / чайові</div>	<div>der Tipp, -s</div>	<div>Die Hosts geben den Couchsurfern oft Tipps.</div>	#advice
+<div>luck / удача</div>	<div>das Glück (Singular)</div>	<div>Ich hatte immer Glück beim Couchsurfen, alles war super!</div>	#fortune
+<div>fan / фанат</div>	<div>der Fan, -s</div>	<div>Ich bin schon lange ein Fan von Couchsurfen.</div>	#people
+<div>hostel / хостел</div>	<div>das Hostel, -s</div>	<div>In einem Hostel kann man billig übernachten.</div>	#accommodation
+<div>private individual / приватна особа</div>	<div>die Privatperson, -en</div>	<div>Beim Couchsurfen übernachtet man bei Privatpersonen.</div>	#people
+<div>place to sleep / місце для сну</div>	<div>der Schlafplatz, Schlafplätze</div>	<div>Couchsurfer müssen für den Schlafplatz nichts bezahlen.</div>	#accommodation
+<div>sofa / диван</div>	<div>die Couch, -es</div>	<div>Für den Schlafplatz auf der Couch bezahlt man nichts.</div>	#furniture
+<div>gift / подарунок</div>	<div>das Geschenk, -e</div>	<div>Viele Couchsurfer bringen kleine Geschenke für ihren Host mit.</div>	#item
+<div>perfect(ly) / ідеальний(о)</div>	<div>perfekt</div>	<div>Das Couchsurfen hat fast immer perfekt funktioniert.</div>	#quality
+<div>comfortable / комфортний</div>	<div>bequem</div>	<div>Manchmal waren die Couches nicht sehr bequem.</div>	#quality
+<div>bad luck / невдача</div>	<div>das Pech (Singular)</div>	<div>Nur einmal hatte ich wirklich Pech, das war ärgerlich.</div>	#fortune
+<div>to cancel / скасувати</div>	<div>absagen</div>	<div>Mir hat ein Gastgeber abgesagt und ich musste mir eine andere Unterkunft suchen.</div>	#action
+<div>profile / профіль</div>	<div>das Profil, -e</div>	<div>Ich habe dein Profil auf meinecouchistdeinecouch.de gesehen.</div>	#online
+<div>workshop / майстерня</div>	<div>der Workshop, -s</div>	<div>Bei einem Workshop arbeitet man zusammen an Ideen.</div>	#event
+<div>rejection / відмова</div>	<div>die Absage, -n</div>	<div>Ich habe leider eine Absage für den Job bekommen.</div>	#action
+<div>message / повідомлення</div>	<div>die Nachricht, -en</div>	<div>Sie haben 4 Nachrichten auf der Mailbox.</div>	#communication
+<div>to be annoyed / бути роздратованим</div>	<div>(sich) ärgern</div>	<div>Ich habe mich über die Preise im Kölner Dom geärgert. Der Eintritt ist viel zu teuer!</div>	#emotion
+<div>cathedral / собор</div>	<div>der Dom, -e</div>	<div>Ich war nach dem Workshop noch im Kölner Dom.</div>	#building
+<div>well then / ну тоді</div>	<div>eben</div>	<div>Der Blick über die Stadt war toll. Na eben, dann hat es sich doch gelohnt.</div>	#expression
+<div>to be worth it / того вартий</div>	<div>(sich) lohnen</div>	<div>Der Blick über die Stadt war toll. Na eben, dann hat es sich doch gelohnt.</div>	#value
+<div>floor / поверх</div>	<div>der Boden, Böden</div>	<div>Ich hatte kein Bett und musste auf dem Boden schlafen.</div>	#building
+<div>chaotic / хаотичний</div>	<div>chaotisch</div>	<div>Die Wohnung war total chaotisch und nicht sauber.</div>	#quality
+<div>to book / бронювати</div>	<div>buchen</div>	<div>Ich wollte ein Zimmer in einem Hostel buchen.</div>	#action
+<div>festival / фестиваль</div>	<div>das Festival, -s</div>	<div>Die Stadt ist wirklich toll und die Musik auf dem Festival war klasse!</div>	#event
+<div>mountain / гора</div>	<div>der Berg, -e</div>	<div>Wir haben zwei Wochen Ferien in den Bergen gemacht.</div>	#nature
+<div>place, village / місце, село</div>	<div>der Ort, -e</div>	<div>Der Ort war klein und ruhig.</div>	#location
+<div>relaxation / розслаблення</div>	<div>die Entspannung (Singular)</div>	<div>Der Urlaub in den Bergen war Entspannung pur!</div>	#leisure
+<div>sheer / чистий</div>	<div>pur</div>	<div>Der Urlaub in den Bergen war Entspannung pur!</div>	#emphasis
+<div>dark / темний</div>	<div>dunkel</div>	<div>Die Zimmer hatten kleine Fenster und waren sehr dunkel.</div>	#quality
+<div>magnificent / величний</div>	<div>wunderschön</div>	<div>Die Natur ist dort wunderschön, einfach toll!</div>	#quality
+<div>camping / кемпінг</div>	<div>das Camping (Singular)</div>	<div>Mein Mann und ich lieben Camping in der Natur.</div>	#activity
+<div>to go away (on holiday) / поїхати (у відпустку)</div>	<div>verreisen</div>	<div>Wir verreisen immer mit unserem Wohnmobil und brauchen kein Hotel.</div>	#travel
+<div>camper van / кемпер</div>	<div>das Wohnmobil, -e</div>	<div>Wir verreisen immer mit unserem Wohnmobil und brauchen kein Hotel.</div>	#vehicle
+<div>Austria / Австрія</div>	<div>Österreich</div>	<div>Letzten Sommer waren wir in Österreich.</div>	#country
+<div>classical music / класична музика</div>	<div>die klassische Musik (Singular)</div>	<div>Wir lieben klassische Musik, zum Beispiel Mozart.</div>	#music
+<div>to be happening / відбуватися</div>	<div>los sein</div>	<div>Auf den Campingplätzen war nicht so viel los, es war sehr ruhig.</div>	#activity
+<div>house swap / обмін житлом</div>	<div>der Haustausch (Singular)</div>	<div>Bei einem Haustausch tauscht man das Haus mit einer anderen Familie.</div>	#travel
+<div>television / телевізор</div>	<div>der Fernseher, -</div>	<div>Leider hatten wir keinen Fernseher im Zimmer.</div>	#appliance
+<div>dirty / брудний</div>	<div>schmutzig</div>	<div>Das Haus war leider sehr schmutzig.</div>	#quality
+<div>to come back / повернутися</div>	<div>zurückkommen</div>	<div>Ich habe gedacht, dass ihr erst am Sonntag aus dem Urlaub zurückkommt.</div>	#travel
+<div>link / посилання</div>	<div>der Link, -s</div>	<div>Ich schicke dir den Link auf die Webseite.</div>	#technology
+<div>back / назад</div>	<div>zurück</div>	<div>Seid ihr schon zurück aus dem Urlaub?</div>	#direction
