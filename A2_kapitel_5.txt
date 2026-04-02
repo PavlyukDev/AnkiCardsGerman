@@ -1,0 +1,183 @@
+#separator:tab
+#html:true
+#tags column:4
+<div>ancillary costs / комунальні витрати, додаткові витрати</div>	<div>die Nebenkosten (Plural)</div>	<div>Die Nebenkosten (Wasser, Heizung …) für meine Wohnung sind hoch.</div>	#wohnen
+<div>heating / опалення</div>	<div>die Heizung, -en</div>	<div>Die Kosten für die Heizung sind im Winter sehr hoch.</div>	#wohnen
+<div>waste collection / вивезення сміття</div>	<div>die Müllabfuhr, -en</div>	<div>Die Müllabfuhr holt einmal in der Woche den Müll ab.</div>	#wohnen
+<div>rent including fuel / орендна плата з комунальними послугами</div>	<div>die Warmmiete, -n</div>	<div>Bei der Warmmiete sind Nebenkosten inklusive.</div>	#wohnen
+<div>basic rent / базова орендна плата</div>	<div>die Kaltmiete, -n</div>	<div>Die Kaltmiete wird ohne Nebenkosten berechnet.</div>	#wohnen
+<div>shared house / спільна квартира, спільне проживання</div>	<div>die Wohngemeinschaft, -en</div>	<div>Ich lebe in einer Wohngemeinschaft mit anderen (kurz: die WG, -s)                                   Mietern zusammen.</div>	#wohnen
+<div>square metre / квадратний метр</div>	<div>der Quadratmeter, -</div>	<div>Wie viele Quadratmeter hat die Wohnung? 120 Quadratmeter.</div>	#wohnen
+<div>underground car-park / підземний паркінг</div>	<div>die Tiefgarage, -n</div>	<div>Das Auto können Sie in der Tiefgarage parken.</div>	#wohnen
+<div>object / об’єкт</div>	<div>das Objekt, -e</div>	<div>Wir haben vier Objekte in unserem Angebot, drei Wohnungen und ein Haus.</div>	#wohnen
+<div>detached house / окремий будинок для однієї сім’ї</div>	<div>das Einfamilienhaus, Einfamilienhäuser</div>	<div>Das Einfamilienhaus ist ideal für eine Familie.</div>	#wohnen
+<div>storey / поверх</div>	<div>das Stockwerk, -e</div>	<div>Auf zwei Stockwerken bietet das Haus genug Platz für eine Familie.</div>	#wohnen
+<div>to offer / пропонувати</div>	<div>bieten</div>	<div>Auf zwei Stockwerken bietet das Haus genug Platz für eine Familie.</div>	#wohnen
+<div>garage / гараж</div>	<div>die Garage, -n</div>	<div>Es gibt eine Garage für ein Auto.</div>	#wohnen
+<div>period apartment, / квартира в старому будинку, довоєнна квартира</div>	<div>die Altbauwohnung, -en</div>	<div>Das ist eine Altbauwohnung. Das Haus wurde pre-war apartment       1910 gebaut.</div>	#wohnen
+<div>style / стиль</div>	<div>der Stil (hier: Singular)</div>	<div>Das ist eine Altbauwohnung mit Stil!</div>	#wohnen
+<div>roof / дах</div>	<div>das Dach, Dächer</div>	<div>Ein Zimmer ist ganz oben direkt unter dem Dach.</div>	#wohnen
+<div>to have / мати, володіти</div>	<div>verfügen über</div>	<div>Die Wohnung verfügt über einen großen Essbereich.</div>	#wohnen
+<div>living area / житлова зона</div>	<div>der Wohnbereich, -e</div>	<div>Der Wohnbereich ist sehr gemütlich.</div>	#wohnen
+<div>dining area / обідня зона</div>	<div>der Essbereich, -e</div>	<div>Die Wohnung verfügt über einen großen Essbereich.</div>	#wohnen
+<div>cooking area / кухонна зона</div>	<div>der Kochbereich, -e</div>	<div>Die Wohnung verfügt über einen Kochbereich.</div>	#wohnen
+<div>bedroom / спальня</div>	<div>das Schlafzimmer, -</div>	<div>Das Haus bietet drei große Schlafzimmer.</div>	#wohnen
+<div>to renovate / ремонтувати</div>	<div>renovieren</div>	<div>Das Haus ist neu renoviert.</div>	#wohnen
+<div>highlight / особливість, родзинка</div>	<div>das Highlight, -s</div>	<div>Die hohen Decken machen diese Wohnung zu einem Highlight.</div>	#wohnen
+<div>zu vermieten = to let / здається в оренду</div>	<div>vermieten</div>	<div>Die Wohnung ist zu vermieten, die Kaltmieter beträgt 900 €.</div>	#wohnen
+<div>single / самотня людина</div>	<div>der Single, -s</div>	<div>Die Wohnung ist klein und ideal für Singles.</div>	#wohnen
+<div>centre / центр</div>	<div>das Zentrum, Zentren</div>	<div>Die Wohnung liegt nur 10 Minuten vom Zentrum entfernt.</div>	#wohnen
+<div>away / на відстані, далеко</div>	<div>entfernt</div>	<div>Die Wohnung liegt nur 10 Minuten vom Zentrum entfernt.</div>	#wohnen
+<div>bathroom / ванна кімната</div>	<div>das Badezimmer, -</div>	<div>Die Wohnung hat ein Badezimmer mit WC und Dusche.</div>	#wohnen
+<div>courtyard / внутрішній двір</div>	<div>der Innenhof, Innenhöfe</div>	<div>Das Haus hat einen großen Innenhof, hier können die Kinder spielen.</div>	#wohnen
+<div>ceiling / стеля</div>	<div>die Decke, -n</div>	<div>Die hohen Decken machen diese Wohnung zu einem Highlight.</div>	#wohnen
+<div>ground floor / перший поверх</div>	<div>das Erdgeschoss (Singular)</div>	<div>Unten im Erdgeschoss sind das große Wohnzimmer und die Küche.</div>	#wohnen
+<div>urgently / терміново</div>	<div>dringend</div>	<div>Ich suche dringend eine neue Wohnung ab nächster Woche.</div>	#wohnen
+<div>maximum / максимум</div>	<div>maximal</div>	<div>Ich will maximal 400 € für mein Zimmer bezahlen, mehr nicht.</div>	#wohnen
+<div>monthly rent / місячна орендна плата</div>	<div>die Monatsmiete, -n</div>	<div>Die Monatsmiete beträgt 1400 Euro.</div>	#wohnen
+<div>hall / коридор, передпокій</div>	<div>der Flur, -e</div>	<div>Der Flur ist sehr schmal.</div>	#wohnen
+<div>study, office / кабінет, робоча кімната</div>	<div>das Arbeitszimmer, -</div>	<div>Im Arbeitszimmer steht ein Schreibtisch.</div>	#wohnen
+<div>pushchair, pram / дитячий візок</div>	<div>der Kinderwagen, Kinderwagen</div>	<div>Gibt es denn im Treppenhaus irgendwo Platz für einen Kinderwagen?</div>	#wohnen
+<div>top floor / верхній поверх, мансарда</div>	<div>das Dachgeschoss (Singular)</div>	<div>Die Wohnung ist ganz oben im Dachgeschoss.</div>	#wohnen
+<div>bath(tub) / ванна</div>	<div>die Badewanne, -n</div>	<div>Es gibt keine Badewanne, aber eine Dusche.</div>	#wohnen
+<div>to total, to amount to / становити, складати</div>	<div>betragen</div>	<div>Die Miete beträgt 1490 Euro.</div>	#wohnen
+<div>boxroom / комора</div>	<div>der Abstellraum, Abstellräume</div>	<div>Gibt es einen Abstellraum oder einen Keller?</div>	#wohnen
+<div>city park / міський парк</div>	<div>der Stadtpark, -s</div>	<div>Die Wohnung liegt direkt am Stadtpark.</div>	#wohnen
+<div>penthouse / пентхаус, мансардна квартира</div>	<div>die Dachwohnung, -en</div>	<div>Wir wohnen in einer Dachwohnung ganz oben.</div>	#wohnen
+<div>roof terrace / тераса на даху</div>	<div>die Dachterrasse, -n</div>	<div>Auf der Dachterrasse hat man einen Blick über die ganze Stadt.</div>	#wohnen
+<div>to relax / відпочивати, розслаблятися</div>	<div>relaxen</div>	<div>Wir sitzen gerne auf der Dachterrasse und relaxen.</div>	#wohnen
+<div>city person / міська людина</div>	<div>der Stadtmensch, -en</div>	<div>Mein Mann und ich sind Stadtmenschen, wir wollen nicht auf dem Land leben.</div>	#wohnen
+<div>here: near the city / поблизу міста</div>	<div>die Stadtnähe (Singular)</div>	<div>Wir wollten auf dem Land, aber in Stadtnähe wohnen.</div>	#wohnen
+<div>modern / сучасний</div>	<div>modern</div>	<div>Euer neues Haus ist sehr modern.</div>	#wohnen
+<div>architect / архітектор</div>	<div>der/die Architekt, -en / Architektin, -nen</div>	<div>Meine Frau ist Architektin und plant Häuser.</div>	#wohnen
+<div>houseboat / будинок на воді</div>	<div>das Hausboot, -e</div>	<div>Wir leben seit einem Monat auf dem Wasser in einem Hausboot.</div>	#wohnen
+<div>location, position / розташування, місце</div>	<div>die Lage, -n</div>	<div>Für diese Lage hat die Wohnung einen super Preis.</div>	#wohnen
+<div>in the middle (of) / посередині</div>	<div>mitten</div>	<div>Wir sind hier mitten in Hamburg.</div>	#wohnen
+<div>view / вид, краєвид</div>	<div>der Ausblick (Singular)</div>	<div>Wir genießen den tollen Ausblick auf das Wasser.</div>	#wohnen
+<div>island / острів</div>	<div>die Insel, -n</div>	<div>Mein Mann und ich leben auf der kleinen Insel Rügen.</div>	#wohnen
+<div>centre, middle / центр, середина</div>	<div>die Mitte (hier: Singular)</div>	<div>Kassel liegt in der Mitte von Deutschland.</div>	#wohnen
+<div>fourth / четвертий</div>	<div>viert-</div>	<div>Die schöne Wohnung ist im vierten Stock.</div>	#wohnen
+<div>neighbour / сусід, сусідка</div>	<div>der/die Nachbar, -n / Nachbarin, -nen                                    Haus.</div>	<div>Wir mögen die netten Nachbarn bei uns im</div>	#wohnen
+<div>Italian / італійський</div>	<div>italienisch</div>	<div>Dort ist auch das italienische Restaurant.</div>	#wohnen
+<div>news (plural) / новини</div>	<div>die Neuigkeit, -en</div>	<div>Bei mir gibt es super Neuigkeiten. Oh, das ist ja toll!</div>	#wohnen
+<div>funny, strange / дивний, кумедний</div>	<div>komisch</div>	<div>Am Anfang war es komisch, aber jetzt finde ich es super!</div>	#wohnen
+<div>impractical / непрактичний</div>	<div>unpraktisch</div>	<div>Nur die Küche finde ich sehr klein und total unpraktisch.</div>	#wohnen
+<div>central / центральний</div>	<div>zentral</div>	<div>Besonders toll ist die zentrale Lage mitten in der Stadt.</div>	#wohnen
+<div>practical / практичний</div>	<div>praktisch</div>	<div>Die Küche ist praktisch und gemütlich.</div>	#wohnen
+<div>cellar, basement / підвал, комірчина в підвалі</div>	<div>das Kellerabteil, -e</div>	<div>Es gibt leider kein Kellerabteil für unsere Sachen.</div>	#wohnen
+<div>supermarket / супермаркет</div>	<div>der Supermarkt, Supermärkte</div>	<div>Der Supermarkt zum Einkaufen ist nicht weit weg.</div>	#wohnen
+<div>to sound / звучати</div>	<div>klingen</div>	<div>Das klingt gut!</div>	#wohnen
+<div>surfboard / дошка для серфінгу</div>	<div>das Surfbrett, -er</div>	<div>Das Surfbrett und das Snowboard stehen im Flur.</div>	#wohnen
+<div>snowboard / сноуборд</div>	<div>das Snowboard, -s</div>	<div>Das Surfbrett und das Snowboard stehen im Flur.</div>	#wohnen
+<div>parcel service, / служба доставки посилок</div>	<div>der Paketdienst, -e</div>	<div>Der Paketdienst hat ein Paket für den Nachbarn delivery company     abgegeben.</div>	#wohnen
+<div>parcel, package / посилка, пакунок</div>	<div>das Paket, -e</div>	<div>Der Paketdienst hat ein Paket für den Nachbarn abgegeben.</div>	#wohnen
+<div>to water / поливати</div>	<div>gießen</div>	<div>Ich muss noch die Blumen mit Wasser gießen.</div>	#wohnen
+<div>stairs / сходи</div>	<div>die Treppe, -n</div>	<div>Im Alltag Treppen steigen ist gut für die Fitness.</div>	#wohnen
+<div>letterbox, postbox, mailbox / поштова скринька</div>	<div>der Briefkasten, Briefkästen</div>	<div>Hast du heute in den Briefkasten geguckt? Ich warte auf einen Brief von meiner Mutter.</div>	#wohnen
+<div>doorbell / дзвінок у двері</div>	<div>die Klingel, -n</div>	<div>Wo ist die Klingel von Familie Jäger?</div>	#wohnen
+<div>front door / вхідні двері</div>	<div>die Eingangstür, -en</div>	<div>Dort ist die Eingangstür des Hauses und hier der Fahrradkeller.</div>	#wohnen
+<div>apartment door / двері квартири</div>	<div>die Wohnungstür, -en</div>	<div>Im Treppenhaus ist die Wohnungstür.</div>	#wohnen
+<div>staircase / сходова клітка</div>	<div>das Treppenhaus, Treppenhäuser</div>	<div>Im Treppenhaus ist die Wohnungstür.</div>	#wohnen
+<div>to belong (to) / належати</div>	<div>gehören</div>	<div>Gehört das Fahrrad dir? Nein, das ist nicht mein Fahrrad.</div>	#wohnen
+<div>thank you / дякую</div>	<div>danke schön</div>	<div>Deine Hilfe war wirklich super, danke schön!</div>	#wohnen
+<div>toys / іграшки</div>	<div>die Spielsachen (Plural)</div>	<div>Frau Schuster, im Flur liegen schon wieder die Spielsachen Ihrer Kinder!</div>	#wohnen
+<div>to go for a walk / йти на прогулянку</div>	<div>spazieren gehen</div>	<div>Aaron ist mit dem Hund spazieren gegangen.</div>	#wohnen
+<div>from time to time / час від часу</div>	<div>öfter</div>	<div>In unserem Briefkasten ist öfter ein Brief für Frau Jäger.</div>	#wohnen
+<div>over there / туди</div>	<div>dorthin</div>	<div>Leg den Brief einfach dorthin.</div>	#wohnen
+<div>knee / коліно</div>	<div>das Knie, -</div>	<div>Er hat Probleme mit den Knien und kann nicht beim Umzug helfen.</div>	#wohnen
+<div>Hi! / Привіт!</div>	<div>Hi!</div>	<div>Hi Lara! Wie geht es dir?</div>	#wohnen
+<div>landlord / орендодавець, власник житла</div>	<div>der/die Vermieter, - / Vermieterin, -nen</div>	<div>Der Vermieter meiner Wohnung macht Probleme.</div>	#wohnen
+<div>wir sind zu viert = there are / нас четверо</div>	<div>zu</div>	<div>Ich wohne mit Johanna, Aaron und seinem four of us                      Hund, wir sind also zu viert.</div>	#wohnen
+<div>opposite / навпроти</div>	<div>gegenüber</div>	<div>Frau Schuster wohnt gegenüber von unserer Wohnung.</div>	#wohnen
+<div>cute, sweet / милий, симпатичний</div>	<div>süß</div>	<div>Die Kinder sind ganz süß.</div>	#wohnen
+<div>wedding plans (plural) / весільні плани</div>	<div>die Hochzeitspläne (hier: Plural)</div>	<div>Was ist mit euren Hochzeitsplänen? Wann wollt ihr heiraten?</div>	#wohnen
+<div>to clean / прибирати, чистити</div>	<div>putzen</div>	<div>Das Treppenhaus muss man jede Woche putzen.</div>	#wohnen
+<div>rubbish / сміття</div>	<div>der Müll (Singular)</div>	<div>Anna bringt den Müll raus zu den Mülltonnen im Hof.</div>	#wohnen
+<div>to take out / виносити</div>	<div>rausbringen</div>	<div>Anna bringt den Müll raus zu den Mülltonnen im Hof.</div>	#wohnen
+<div>lamp / лампа</div>	<div>die Lampe, -n</div>	<div>Tom repariert die Lampe, damit wir im Schlafzimmer wieder Licht haben.</div>	#wohnen
+<div>cat / кіт, кішка</div>	<div>die Katze, -n</div>	<div>Anna füttert die Katzen.</div>	#wohnen
+<div>to feed / годувати</div>	<div>füttern</div>	<div>Anna füttert die Katzen.</div>	#wohnen
+<div>bin / сміттєвий бак, контейнер</div>	<div>die Tonne, -n</div>	<div>Der Plastikmüll kommt in die gelbe Tonne.</div>	#wohnen
+<div>organic waste, green waste / органічні відходи</div>	<div>der Biomüll (nur Singular)</div>	<div>Der Biomüll kommt in die braune Tonne.</div>	#wohnen
+<div>to leave, to depart / виїжджати, вирушати</div>	<div>losfahren</div>	<div>Hallo Frau Jäger, wir fahren jetzt los in den Urlaub.</div>	#wohnen
+<div>Wednesday morning / середа вранці</div>	<div>der -vormittag, -e</div>	<div>Wir kommen am Mittwochvormittag zurück.</div>	#wohnen
+<div>plant / рослина</div>	<div>die Pflanze, -n</div>	<div>Die Pflanzen sind auf dem Balkon und im Wohnzimmer.</div>	#wohnen
+<div>to take care of / піклуватися про</div>	<div>(sich) kümmern</div>	<div>Ich kümmere mich um die Pflanzen, wenn meine Nachbarin weg ist.</div>	#wohnen
+<div>light / світло</div>	<div>das Licht, -er</div>	<div>Das Licht im Treppenhaus ist kaputt, ich kann nichts sehen.</div>	#wohnen
+<div>the day before yesterday / позавчора</div>	<div>vorgestern</div>	<div>Heute ist Montag. Frau Krippendorf hat mich vorgestern (also am Samstag) angerufen.</div>	#wohnen
+<div>front door / вхідні двері</div>	<div>die Haustür, -en</div>	<div>Die Haustür war gestern die ganze Nacht offen, das ist gefährlich.</div>	#wohnen
+<div>open / відчинений</div>	<div>offen</div>	<div>Die Haustür war gestern die ganze Nacht offen, das ist gefährlich.</div>	#wohnen
+<div>to lock / замикати</div>	<div>abschließen</div>	<div>Bitte schließen Sie die Tür ab 21:00 Uhr immer ab.</div>	#wohnen
+<div>door / двері</div>	<div>die Tür, -en</div>	<div>Bitte schließen Sie die Tür ab 21:00 Uhr immer ab.</div>	#wohnen
+<div>cleaning the stairs / прибирання сходів</div>	<div>die Treppenreinigung, -en</div>	<div>Sie sind diesen Monat mit der Treppenreinigung dran.</div>	#wohnen
+<div>second / другий</div>	<div>zweit-</div>	<div>Ich bin neu in der WG Stöckel/Rostek im zweiten Stock.</div>	#wohnen
+<div>housewarming party / новосільна вечірка</div>	<div>die Einweihungsparty, -s</div>	<div>Am 20.05. feiere ich meine Einweihungsparty in der neuen Wohnung.</div>	#wohnen
+<div>understanding / розуміння</div>	<div>das Verständnis (Singular)</div>	<div>Wir machen eine Party und bitten um Verständnis, wenn es an dem Abend etwas laut wird.</div>	#wohnen
+<div>to inform / інформувати, повідомляти</div>	<div>informieren</div>	<div>Wir machen eine Party und haben den Vermieter über die Party informiert.</div>	#wohnen
+<div>to celebrate with someone / святкувати разом з кимось</div>	<div>mitfeiern</div>	<div>Wir machen eine Party, alle Personen im Haus können mitfeiern.</div>	#wohnen
+<div>to note / брати до уваги, звертати увагу</div>	<div>beachten</div>	<div>Bitte beachten Sie eine Änderung: Die Hofreinigung ist jetzt immer am Montag.</div>	#wohnen
+<div>change / зміна</div>	<div>die Änderung, -en</div>	<div>Bitte beachten Sie eine Änderung: Die Hofreinigung ist jetzt immer am Montag.</div>	#wohnen
+<div>yard cleaning / прибирання двору</div>	<div>die Hofreinigung, -en</div>	<div>Die Hofreinigung ist immer mittwochs.</div>	#wohnen
+<div>yard, courtyard / двір, подвір’я</div>	<div>der Hof, Höfe</div>	<div>Bitte nutzen Sie die Parkplätze im Hof während der Hofreinigung nicht.</div>	#wohnen
+<div>resident / мешканець, мешканка</div>	<div>der/die Hausbewohner, - / Hausbewohnerin, -nen                                          WG ein.</div>	<div>Zur Party lädt Nina alle Hausbewohner in die</div>	#wohnen
+<div>repair / ремонт</div>	<div>die Reparatur, -en</div>	<div>Bei der Reparatur der Heizung muss die Firma die Anlage ausschalten.</div>	#wohnen
+<div>here: heating system / система опалення</div>	<div>die Anlage, -en</div>	<div>Bei der Reparatur der Heizung muss die Firma die Anlage ausschalten.</div>	#wohnen
+<div>to switch off / вимикати</div>	<div>ausschalten</div>	<div>Bei der Reparatur der Heizung muss die Firma die Anlage ausschalten.</div>	#wohnen
+<div>tenant / орендар, орендарка</div>	<div>der/die Mieter, - / Mieterin, -nen                                                          nächste Woche ein.</div>	<div>Die neuen Mieter meiner Wohnung ziehen</div>	#wohnen
+<div>Best regards, best wishes / з найкращими побажаннями</div>	<div>Herzliche Grüße</div>	<div>Herzliche Grüße, Sigi Schilling</div>	#wohnen
+<div>day of the week / день тижня</div>	<div>der Wochentag, -e</div>	<div>Was ist heute für ein Wochentag? Donnerstag.</div>	#wohnen
+<div>to deliver / доставляти</div>	<div>liefern</div>	<div>Liefern Sie die Möbel auch zu mir nach Hause?</div>	#wohnen
+<div>multigenerational house / будинок для кількох поколінь</div>	<div>das Mehrgenerationenhaus,</div>	<div>Im Mehrgenerationenhaus leben Singles, Mehrgenerationenhäuser                                        Familien und alte Menschen gemeinsam.</div>	#wohnen
+<div>living together, cohabiting / спільне проживання</div>	<div>das Zusammenleben (Singular)</div>	<div>Das Zusammenleben im Mehrgenerationenhaus ist interessant.</div>	#wohnen
+<div>spring clean / весняне прибирання</div>	<div>der Frühjahrsputz (Singular)</div>	<div>Am letzten Samstag war unser Frühjahrsputz im Garten, wir haben alles aufgeräumt.</div>	#wohnen
+<div>common room, communal area / спільна кімната, загальне приміщення</div>	<div>der Gemeinschaftsraum, Gemeinschaftsräume                                            zusammen nutzen.</div>	<div>Die Gemeinschaftsräume können alle Bewohner</div>	#wohnen
+<div>cleaning team / команда з прибирання</div>	<div>das Putz-Team, -s</div>	<div>Das Putz-Team macht jeden Dienstag sauber.</div>	#wohnen
+<div>yoga / йога</div>	<div>das/der Yoga</div>	<div>Am Dienstagabend ist im Gemeinschaftsraum wieder Yoga.</div>	#wohnen
+<div>interest / інтерес</div>	<div>das Interesse, -n</div>	<div>Am Dienstagabend ist wieder Yoga. Wer hat Interesse?</div>	#wohnen
+<div>list / список</div>	<div>die Liste, -n</div>	<div>Bitte schreibt euren Namen in die Liste für den Yoga-Kurs.</div>	#wohnen
+<div>to come round / заходити, приходити</div>	<div>vorbeikommen</div>	<div>Nimm dir Zeit und komm beim Treffen vorbei!</div>	#wohnen
+<div>to pass on / передавати далі</div>	<div>weitersagen</div>	<div>Bitte sag auch an deine Freunde und Bekannte weiter, dass wir uns treffen!</div>	#wohnen
+<div>altogether / загалом</div>	<div>gesamt</div>	<div>Wohnungen gesamt: 50.</div>	#wohnen
+<div>large kitchen / велика кухня</div>	<div>die Großküche, -n</div>	<div>In der Großküche können alle Bewohner des Mehrgenerationenhauses zusammen kochen.</div>	#wohnen
+<div>events room / кімната для заходів</div>	<div>der Veranstaltungsraum, Veranstaltungsräume                                           gemeinsamen Nutzung.</div>	<div>Es gibt einen Veranstaltungsraum zur</div>	#wohnen
+<div>library / бібліотека</div>	<div>die Bibliothek, -en</div>	<div>Es gibt auch eine Bibliothek mit vielen Büchern.</div>	#wohnen
+<div>use / використання</div>	<div>die Nutzung (Singular)</div>	<div>Es gibt einen Veranstaltungsraum zur gemeinsamen Nutzung.</div>	#wohnen
+<div>back then / тоді, колись</div>	<div>damals</div>	<div>Wir sind vor zehn eingezogen. Damals wollten wir schnell Leute kennenlernen.</div>	#wohnen
+<div>gymnastics course / курс гімнастики</div>	<div>der Gymnastikkurs, -e</div>	<div>Ich mache Gymnastikkurse, denn ich bin Physiotherapeut.</div>	#wohnen
+<div>physiotherapist / фізіотерапевт</div>	<div>der/die Physiotherapeut, -en / Physiotherapeutin, -en                                           Physiotherapeut.</div>	<div>Ich mache Gymnastikkurse, denn ich bin</div>	#wohnen
+<div>with each other / один з одним</div>	<div>miteinander</div>	<div>Im Mehrgenerationenhaus ist es wichtig, dass man miteinander redet.</div>	#wohnen
+<div>solution / рішення</div>	<div>die Lösung, -en</div>	<div>Man muss gemeinsam Lösungen für Probleme finden.</div>	#wohnen
+<div>boredom / нудьга</div>	<div>die Langeweile (Singular)</div>	<div>Das Leben im Mehrgenerationenhaus ist aufregend – Langeweile gibt es bei uns nie!</div>	#wohnen
+<div>to close / зачиняти</div>	<div>zumachen</div>	<div>Komm rein, ich möchte die Tür zumachen.</div>	#wohnen
+<div>old people‘s home, care home / будинок для літніх людей</div>	<div>das Altersheim, -e</div>	<div>Ich bin ja schon 84, aber ins Altersheim wollte ich nicht.</div>	#wohnen
+<div>community / спільнота</div>	<div>die Gemeinschaft, -en</div>	<div>Leben in Gemeinschaft ist sehr beliebt, vor allem in den teuren Großstädten.</div>	#wohnen
+<div>popular / популярний</div>	<div>beliebt</div>	<div>Leben in Gemeinschaft ist sehr beliebt, vor allem in den teuren Großstädten.</div>	#wohnen
+<div>to share / ділити, ділитися</div>	<div>(sich) teilen</div>	<div>Wir teilen uns zu dritt eine Wohnung.</div>	#wohnen
+<div>city / велике місто</div>	<div>die Großstadt, Großstädte</div>	<div>Ich lebe gerne in einer Großstadt wie Berlin.</div>	#wohnen
+<div>to save / економити</div>	<div>sparen</div>	<div>In Wohngemeinschaften kann man viel Geld sparen.</div>	#wohnen
+<div>professional / працюючий, професійно зайнятий</div>	<div>berufstätig</div>	<div>Bei berufstätigen Singles ist das Geld meist kein Grund.</div>	#wohnen
+<div>reason / причина</div>	<div>der Grund, Gründe</div>	<div>Bei berufstätigen Singles ist das Geld meist kein Grund.</div>	#wohnen
+<div>elderly person, OAP / літня людина, пенсіонер</div>	<div>der/die Senior, -en / Seniorin, -nen                                                             leben.</div>	<div>Viele Senioren wollen nicht in einem Altersheim</div>	#wohnen
+<div>(to) each other / один одному</div>	<div>zueinander</div>	<div>Die Mitbewohner in einer WG müssen zueinander passen.</div>	#wohnen
+<div>to suit / підходити</div>	<div>passen</div>	<div>Die Mitbewohner in einer WG müssen zueinander passen.</div>	#wohnen
+<div>tidiness / порядок, охайність</div>	<div>die Ordnung (hier: Singular)</div>	<div>Ordnung ist mir sehr wichtig, ich räume immer auf.</div>	#wohnen
+<div>animal / тварина</div>	<div>das Tier, -e</div>	<div>Auch das Thema Tiere (z.B. Hund oder Katze) ist wichtig für das Zusammenleben.</div>	#wohnen
+<div>non-smoker / той, хто не курить</div>	<div>der/die Nichtraucher, - / Nichtraucherin, -nen</div>	<div>Ich bin Nichtraucher, ich hasse Rauchen.</div>	#wohnen
+<div>relaxed, laid-back / розслаблений, невимушений</div>	<div>entspannt</div>	<div>Ich bin entspannt und genieße das Leben ohne Stress.</div>	#wohnen
+<div>cleaning schedule / графік прибирання</div>	<div>der Putzplan, Putzpläne</div>	<div>Wir brauchen einen Putzplan, hier in der WG ist es zu dreckig.</div>	#wohnen
+<div>wardrobe / шафа для одягу</div>	<div>der Kleiderschrank, Kleiderschränke                                      Kleiderschrank.</div>	<div>Ich suche ein Zimmer mit Bett und</div>	#wohnen
+<div>open / відкритий</div>	<div>offen</div>	<div>Ich bin offen, nicht kompliziert und ordentlich.</div>	#wohnen
+<div>complicated / складний</div>	<div>kompliziert</div>	<div>Ich bin offen, nicht kompliziert und ordentlich.</div>	#wohnen
+<div>tidy / охайний</div>	<div>ordentlich</div>	<div>Ich bin offen, nicht kompliziert und ordentlich.</div>	#wohnen
+<div>headphones / навушники</div>	<div>der Kopfhörer, -</div>	<div>Ich kann Klavier mit Kopfhörern üben.</div>	#wohnen
+<div>instrument / музичний інструмент</div>	<div>das Instrument, -e</div>	<div>Nadja spielt ein Instrument, ich glaube Gitarre.</div>	#wohnen
+<div>pet / домашня тварина</div>	<div>das Haustier, -e</div>	<div>Ich mag Haustiere, am liebsten Katzen.</div>	#wohnen
+<div>games evening / вечір настільних ігор</div>	<div>der Spieleabend, -e</div>	<div>Wir machen einen Spieleabend, willst du auch kommen.</div>	#wohnen
+<div>violin / скрипка</div>	<div>die Geige, -n</div>	<div>Ich spiele Geige in einem Orchester.</div>	#wohnen
+<div>cleanliness / чистота</div>	<div>die Sauberkeit (Singular)</div>	<div>Sauberkeit ist mir wichtig, deshalb putze ich oft.</div>	#wohnen
+<div>zoo / зоопарк</div>	<div>der Zoo, -s</div>	<div>Ich möchte in den Zoo gehen und wilde Tiere sehen.</div>	#wohnen
+<div>wall / стіна</div>	<div>die Wand, Wände</div>	<div>An der Wand hängt ein Bild.</div>	#wohnen
+<div>train / поїзд</div>	<div>die Bahn, -en</div>	<div>Sie fährt mit der Bahn zur Arbeit.</div>	#wohnen
+<div>to fax / надсилати факсом</div>	<div>faxen</div>	<div>Er wird mir das Dokument faxen.</div>	#wohnen
+<div>mutually, each other / взаємно, один одному</div>	<div>gegenseitig</div>	<div>Im Mehrgenerationenhaus hilft man sich gegenseitig.</div>	#wohnen
+<div>to look at / оглядати, дивитися</div>	<div>ansehen</div>	<div>Wir möchten die Wohnung gerne ansehen.</div>	#wohnen

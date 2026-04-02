@@ -1,0 +1,128 @@
+#separator:tab
+#html:true
+#tags column:4
+<div>vegan / веганський; веган</div>	<div>der/die Veganer, - / Veganerin,</div>	<div>Veganer essen überhaupt keine Produkte von -nen                                                Tieren.</div>	#fit
+<div>at all / взагалі</div>	<div>überhaupt</div>	<div>Veganer essen überhaupt keine Produkte von Tieren.</div>	#fit
+<div>illness / хвороба</div>	<div>die Krankheit, -en</div>	<div>Wenn man gesund isst, bekommt man weniger Krankheiten.</div>	#fit
+<div>raw food / сироїдіння, сира їжа</div>	<div>das Raw Food</div>	<div>Raw Food ist Obst und Müsli, kalte Suppen, Smoothies ...</div>	#fit
+<div>to dry / сушити</div>	<div>trocknen</div>	<div>Man kann das Gemüse mixen und trocknen.</div>	#fit
+<div>to mix / змішувати</div>	<div>mixen</div>	<div>Man kann das Gemüse mixen und trocknen.</div>	#fit
+<div>dry / сухий</div>	<div>trocken</div>	<div>Ist Raw Food langweilig und trocken?</div>	#fit
+<div>smoothie / смузі</div>	<div>der Smoothie, -s</div>	<div>Wir trinken gerne Smoothies.</div>	#fit
+<div>nut / горіх</div>	<div>die Nuss, Nüsse</div>	<div>Man kann Brot aus Nüssen zubereiten.</div>	#fit
+<div>to prepare / готувати</div>	<div>zubereiten</div>	<div>Man kann Brot aus Nüssen zubereiten.</div>	#fit
+<div>vitamin / вітамін</div>	<div>das Vitamin, -e</div>	<div>Wenn man die Zutaten erwärmt, verlieren sie an Vitaminen.</div>	#fit
+<div>to heat up / підігрівати</div>	<div>erwärmen</div>	<div>Wenn man die Zutaten erwärmt, verlieren sie an Vitaminen.</div>	#fit
+<div>paleo / палео</div>	<div>paläo</div>	<div>Wenn man paläo essen will, isst man viel Fleisch.</div>	#fit
+<div>paleo fan / прихильник палео</div>	<div>der Paläofan, -s</div>	<div>Die Paläofans essen wie die Menschen vor über 100 000 Jahren.</div>	#fit
+<div>yoghurt / йогурт</div>	<div>der/das Joghurt, -s</div>	<div>Joghurt dürfen die Paläofans nicht essen.</div>	#fit
+<div>grain / зерно, злаки</div>	<div>das Getreide, -</div>	<div>Wenn man paläo essen will, ist alles aus Getreide verboten.</div>	#fit
+<div>beef / яловичина</div>	<div>das Rindfleisch (Singular)</div>	<div>Wenn man paläo essen will, isst man zum Beispiel viel Rindfleisch.</div>	#fit
+<div>pork / свинина</div>	<div>das Schweinefleisch (Singular)</div>	<div>Wenn man paläo essen will, isst man zum Beispiel viel Schweinefleisch.</div>	#fit
+<div>fat / жир</div>	<div>das Fett, -e</div>	<div>Wenn man paläo essen will, isst man viel Fleisch mit wenig Fett.</div>	#fit
+<div>baked / запечений</div>	<div>gebacken</div>	<div>Sie isst Getreide nur, wenn es nicht gebacken ist.</div>	#fit
+<div>cooked / варений, приготований</div>	<div>gekocht</div>	<div>Das Gemüse isst sie frisch oder gekocht.</div>	#fit
+<div>lemon / лимон</div>	<div>die Zitrone, -n</div>	<div>Zitronen sind sauer.</div>	#fit
+<div>orange / апельсин</div>	<div>die Orange, -n</div>	<div>Orangen haben viel Vitamin C.</div>	#fit
+<div>cucumber / огірок</div>	<div>die Gurke, -n</div>	<div>Ich brauche noch eine Gurke für den Salat.</div>	#fit
+<div>sausage / ковбаска</div>	<div>die Wurst, Würste</div>	<div>Für mich eine Wurst mit Senf, bitte.</div>	#fit
+<div>energy / енергія</div>	<div>die Energie, -n</div>	<div>Wenn Frank paläo isst, hat er viel Energie.</div>	#fit
+<div>barbecue party / вечірка-барбекю</div>	<div>die Grillparty, -s</div>	<div>Frank macht eine Grillparty.</div>	#fit
+<div>chocolate / шоколад</div>	<div>die Schokolade, -n</div>	<div>Isst du keine Schokolade?</div>	#fit
+<div>piece / шматок</div>	<div>das Stück, -e</div>	<div>Ich esse nur ein kleines Stück Kuchen.</div>	#fit
+<div>dessert, pudding / десерт</div>	<div>der Nachtisch, -e</div>	<div>Ich esse nur manchmal etwas zum Nachtisch.</div>	#fit
+<div>rarely / рідко</div>	<div>selten</div>	<div>Ich esse nur selten Pizza oder Nudeln, eigentlich fast nie.</div>	#fit
+<div>to hurt / боліти</div>	<div>wehtun</div>	<div>Mein Bauch tut immer weh, wenn ich zu viel esse.</div>	#fit
+<div>to have a cold / бути застудженим</div>	<div>erkältet sein</div>	<div>Früher war ich oft erkältet und müde.</div>	#fit
+<div>to feel ill / погано себе почувати</div>	<div>schlecht sein</div>	<div>Mir ist so schlecht.</div>	#fit
+<div>wholegrain bread / цільнозерновий хліб</div>	<div>das Vollkornbrot, -e</div>	<div>Ich esse nur Vollkornbrot und Vollkornnudeln, Joghurt ohne Zucker usw.</div>	#fit
+<div>wholegrain pasta / цільнозернова паста</div>	<div>die Vollkornnudel, -n</div>	<div>Ich esse nur Vollkornbrot und Vollkornnudeln, Joghurt ohne Zucker usw.</div>	#fit
+<div>etc. / і так далі</div>	<div>usw. (= und so weiter)</div>	<div>Ich esse nur Vollkornbrot und Vollkornnudeln, Joghurt ohne Zucker usw.</div>	#fit
+<div>bad / поганий, сильний</div>	<div>schlimm</div>	<div>Die Bauchschmerzen sind schlimm. Ich kann dann nicht arbeiten.</div>	#fit
+<div>mood / настрій</div>	<div>die Laune, -n</div>	<div>Ich habe den ganzen Tag schlechte Laune.</div>	#fit
+<div>low carb / низьковуглеводний</div>	<div>Low-Carb</div>	<div>Seit einem Jahr esse ich nur Low-Carb.</div>	#fit
+<div>to tolerate / переносити</div>	<div>vertragen</div>	<div>Anna verträgt keine Milchprodukte.</div>	#fit
+<div>Best wishes! / усього найкращого!</div>	<div>Alles Gute!</div>	<div>Ich wünsche dir alles Gute!</div>	#fit
+<div>market / ринок</div>	<div>der Markt, Märkte</div>	<div>Samstags gehe ich auf den Markt.</div>	#fit
+<div>unhealthy / нездоровий</div>	<div>ungesund</div>	<div>Manchmal darf man ungesund und fett essen.</div>	#fit
+<div>fat / жир</div>	<div>fett</div>	<div>Manchmal darf man ungesund und fett essen.</div>	#fit
+<div>special / щось особливе</div>	<div>das Besondere</div>	<div>Wenn Freunde zum Essen kommen, koche ich etwas Besonderes. Wenn du Lust hast,</div>	#fit
+<div>enormous appetite / великий апетит</div>	<div>der Riesenhunger (Singular)</div>	<div>Wenn ich Sport mache, habe ich danach einen Riesenhunger.</div>	#fit
+<div>main thing / головне</div>	<div>die Hauptsache, -n</div>	<div>Die Hauptsache ist, dass man gesund ist.</div>	#fit
+<div>taste / смак</div>	<div>der Geschmack, Geschmäcker</div>	<div>Gesundes Essen ist für sie nicht so wichtig wie der Geschmack.</div>	#fit
+<div>place / місце</div>	<div>die Stelle, -n</div>	<div>Erst an zweiter Stelle kommt „gesund“.</div>	#fit
+<div>more likely / —</div>	<div>eher</div>	<div>Eher ältere Menschen sagen, dass sie sich gesund ernähren.</div>	#fit
+<div>calorie / калорія</div>	<div>die Kalorie, -n</div>	<div>Fast 10 % der Frauen denken, dass Essen wenig Kalorien haben soll.</div>	#fit
+<div>diet / дієта</div>	<div>die Diät, -en</div>	<div>Frauen machen mehr Diäten als Männer.</div>	#fit
+<div>to look at / —</div>	<div>schauen</div>	<div>Wir müssen natürlich auf die Preise schauen.</div>	#fit
+<div>sweets, sweet foods / солодощі</div>	<div>die Süßigkeit, -en</div>	<div>Ich esse sehr wenig Süßigkeiten.</div>	#fit
+<div>sport / вид спорту</div>	<div>die Sportart, -en</div>	<div>Die Sportarten Hockey und Volleyball gefallen mir.</div>	#fit
+<div>fitness / фітнес</div>	<div>die Fitness (Singular)</div>	<div>Heutzutage machen viele Leute Fitness in einem Studio.</div>	#fit
+<div>hockey / хокей</div>	<div>das Hockey</div>	<div>Hockey, Judo und Leichtathletik sind interessante Sportarten.</div>	#fit
+<div>trainer / тренер</div>	<div>der/die Trainer, - / Trainerin,</div>	<div>Viele Trainer und Trainerinnen arbeiten -nen                                                    ehrenamtlich.</div>	#fit
+<div>team / команда</div>	<div>die Mannschaft, -en</div>	<div>Wir suchen einen Trainer für unsere Jugend-C-Mannschaft.</div>	#fit
+<div>training time / час тренування</div>	<div>die Trainingszeit, -en</div>	<div>Trainingszeiten sind jeden Tag von 16.00 bis 18.00 Uhr.</div>	#fit
+<div>training location / місце тренування</div>	<div>der Trainingsort, -e</div>	<div>Trainingsort: TV Bamberg</div>	#fit
+<div>young people / молодь</div>	<div>der/die Jugendliche, -n</div>	<div>Jugendliche von 12–16 Jahren können teilnehmen.</div>	#fit
+<div>beginner / початківець</div>	<div>der/die Anfänger, - /</div>	<div>Es gibt Kurse für Anfänger und Fortgeschrittene. Anfängerin, -nen</div>	#fit
+<div>advanced / просунутий</div>	<div>der/die Fortgeschrittene, -n</div>	<div>Es gibt Kurse für Anfänger und Fortgeschrittene.</div>	#fit
+<div>field hockey / —</div>	<div>das Feldhockey</div>	<div>Ich spiele Feldhockey auf dem Rasen.</div>	#fit
+<div>sports field, pitch / спортивне поле</div>	<div>der Sportplatz, Sportplätze</div>	<div>Wir spielen Feldhockey auf unserem Sportplatz.</div>	#fit
+<div>indoor hockey / —</div>	<div>das Hallenhockey</div>	<div>Im Winter spielen wir Hallenhockey.</div>	#fit
+<div>trial session / пробне тренування</div>	<div>das Schnuppertraining, -s</div>	<div>Kommen Sie doch mal zum Schnuppertraining zum Ausprobieren!</div>	#fit
+<div>fax / факс</div>	<div>das Telefax, -e</div>	<div>Sie erreichen uns per Telefon und Telefax.</div>	#fit
+<div>basketball / —</div>	<div>Basketball (Singular)</div>	<div>Ich spiele Basketball in einem Verein.</div>	#fit
+<div>fencing / —</div>	<div>Fechten (Singular)</div>	<div>Mein Lieblingssport ist Fechten.</div>	#fit
+<div>judo / —</div>	<div>Judo (Singular)</div>	<div>Hockey, Judo und Leichtathletik sind interessante Sportarten.</div>	#fit
+<div>light athletics / —</div>	<div>Leichtathletik (Singular)</div>	<div>Hockey, Judo und Leichtathletik sind interessante Sportarten.</div>	#fit
+<div>table tennis / —</div>	<div>Tischtennis (Singular)</div>	<div>Tischtennis spiele ich am Wochenende.</div>	#fit
+<div>volleyball / —</div>	<div>Volleyball (Singular)</div>	<div>Samstags spiele ich immer Volleyball.</div>	#fit
+<div>handball (game) / —</div>	<div>Handball (Singular)</div>	<div>Jeden Dienstag spiele ich Handball.</div>	#fit
+<div>training / тренування</div>	<div>das Training, -s</div>	<div>Ich spiele Hockey und habe dreimal in der Woche Training.</div>	#fit
+<div>website, homepage / вебсайт</div>	<div>die Homepage, -s</div>	<div>Auf der Homepage kann man sich informieren.</div>	#fit
+<div>to be a long time ago / —</div>	<div>lange her sein</div>	<div>Ich habe früher Hockey gespielt, aber das ist schon sehr lange her.</div>	#fit
+<div>kit / екіпірування</div>	<div>die Ausrüstung, -en</div>	<div>Ich habe keine Ausrüstung für Hockey, also keinen Hockeyschläger.</div>	#fit
+<div>hockey stick / ключка</div>	<div>der Hockeyschläger, -</div>	<div>Für Hockey braucht man einen Hockeyschläger und einen Ball.</div>	#fit
+<div>ball / м’яч</div>	<div>der Ball, Bälle</div>	<div>Für Hockey braucht man einen Hockeyschläger und einen Ball.</div>	#fit
+<div>to lend / —</div>	<div>leihen</div>	<div>Kann ich die Sachen beim Probetraining vom Verein leihen?</div>	#fit
+<div>to be on informal terms / —</div>	<div>duzen</div>	<div>In unserer Mannschaft duzen wir uns alle.</div>	#fit
+<div>OK / —</div>	<div>in Ordnung</div>	<div>Ich hoffe, es ist in Ordnung, wenn ich dich duze.</div>	#fit
+<div>to play with us / —</div>	<div>mitspielen</div>	<div>Du kannst gerne beim Hockey mitspielen.</div>	#fit
+<div>reduction / знижка</div>	<div>die Ermäßigung, -en</div>	<div>Gibt es eine Ermäßigung für Studenten? Ja, für Studenten ist es billiger.</div>	#fit
+<div>dance partner / —</div>	<div>der/die Tanzpartner, - /</div>	<div>Braucht man für die Tanzkurse einen Tanzpartnerin, -nen                                           Tanzpartner?</div>	#fit
+<div>to move / рухатися</div>	<div>(sich) bewegen</div>	<div>Gerrit bewegt sich seit ein paar Jahren nicht genug, er muss mehr gehen.</div>	#fit
+<div>to walk about, to run about / —</div>	<div>herumlaufen</div>	<div>Im Büro herumlaufen ist gut für die Gesundheit.</div>	#fit
+<div>to stand still / —</div>	<div>stehen bleiben</div>	<div>Du musst dich nicht hinsetzen. Bleib stehen.</div>	#fit
+<div>a little / —</div>	<div>das Stück (hier: Singular)</div>	<div>Lauf ein Stück auf dem Weg zur Arbeit.</div>	#fit
+<div>tiptoes / —</div>	<div>die Zehenspitze, -n</div>	<div>Ein paar Mal am Tag auf Zehenspitzen stehen ist gut für die Gesundheit!</div>	#fit
+<div>to park / —</div>	<div>abstellen</div>	<div>Bitte das Auto nicht direkt vor der Tür abstellen.</div>	#fit
+<div>works party / корпоратив</div>	<div>die Firmenfeier, -n</div>	<div>Sie muss lange im Büro bleiben und zur Firmenfeier gehen.</div>	#fit
+<div>clubhouse / клубний будинок</div>	<div>das Vereinshaus, Vereinshäuser</div>	<div>Die Mannschaft will im Vereinshaus feiern.</div>	#fit
+<div>to work out / —</div>	<div>klappen</div>	<div>Schade, dass unser Treffen morgen nicht klappt.</div>	#fit
+<div>park / парк</div>	<div>der Park, -s</div>	<div>Am Samstag komme ich zum Fußball in den Park.</div>	#fit
+<div>to hurt oneself / —</div>	<div>(sich) verletzen</div>	<div>Ich habe mich am Fuß verletzt, das tut ziemlich weh.</div>	#fit
+<div>training weekend / тренувальні вихідні</div>	<div>das Trainingswochenende, -n</div>	<div>Mein Hockeyteam macht bald ein Trainingswochenende.</div>	#fit
+<div>to row / —</div>	<div>rudern</div>	<div>Ich rudere im Ruderverein mit drei anderen Frauen im Team.</div>	#fit
+<div>wood / ліс</div>	<div>der Wald, Wälder</div>	<div>Ich gehe gern im Wald spazieren, da ist es schön ruhig und die Luft ist gut.</div>	#fit
+<div>about it / —</div>	<div>daran</div>	<div>Ich gehe gerne im Wald spazieren. Was gefällt Ihnen daran? Die Ruhe.</div>	#fit
+<div>success / успіх</div>	<div>der Erfolg, -e</div>	<div>Ich möchte Erfolg in der Arbeit haben.</div>	#fit
+<div>to notice / —</div>	<div>merken</div>	<div>Sie hat gemerkt, dass sie mehr Zeit für sich selbst braucht.</div>	#fit
+<div>dog-training school / школа для собак</div>	<div>die Hundeschule, -n</div>	<div>In einer Hundeschule trainiert man Hunde.</div>	#fit
+<div>to open / відкривати</div>	<div>aufmachen</div>	<div>Ich mache bald mein eigenes Cafe auf.</div>	#fit
+<div>advisor, consultant / консультант</div>	<div>der/die Berater, - / Beraterin,</div>	<div>Ich war Berater und habe Firmen bei Problemen -nen                                                    geholfen.</div>	#fit
+<div>medication / ліки</div>	<div>das Medikament, -e</div>	<div>Wenn man krank ist, muss man oft Medikamente nehmen.</div>	#fit
+<div>business trip / відрядження</div>	<div>die Dienstreise, -n</div>	<div>Ich arbeite immer im Büro und muss keine Dienstreisen ins Ausland machen.</div>	#fit
+<div>annoyed / сердитий</div>	<div>sauer</div>	<div>Ich muss immer lange arbeiten, meine Freundin ist schon sauer.</div>	#fit
+<div>stressful / стресовий</div>	<div>stressig</div>	<div>Wenn ich viel gearbeitet habe, war es sehr stressig.</div>	#fit
+<div>to take time off / —</div>	<div>freinehmen</div>	<div>Ich habe diese Woche frei genommen und muss nicht arbeiten.</div>	#fit
+<div>baby / немовля</div>	<div>das Baby, -s</div>	<div>Ich habe letztes Jahr ein Baby bekommen.</div>	#fit
+<div>alongside / —</div>	<div>neben</div>	<div>Neben meinem Studium muss ich arbeiten und Geld verdienen.</div>	#fit
+<div>single parent / одинокий батько/мати</div>	<div>alleinerziehend</div>	<div>Ich bin alleinerziehend und habe zwei Kinder.</div>	#fit
+<div>full-time / повна зайнятість</div>	<div>die Vollzeit (Singular)</div>	<div>Ich arbeite Vollzeit, 40 Stunden in der Woche.</div>	#fit
+<div>to be gone / —</div>	<div>weg sein</div>	<div>Am Monatsende ist das Geld immer weg.</div>	#fit
+<div>boy / хлопець, син</div>	<div>der Junge, -n</div>	<div>Ich wünsche mir einen Urlaub am Meer mit meinen Jungen.</div>	#fit
+<div>law / право</div>	<div>Jura</div>	<div>Ich studiere Jura an der Universität.</div>	#fit
+<div>to it / —</div>	<div>darauf</div>	<div>Nach den Prüfungen habe ich viel Zeit. Ich freue mich schon darauf.</div>	#fit
+<div>total / сума</div>	<div>die Summe, -n</div>	<div>Die Summe von 1 und 5 ist 6.</div>	#fit
+<div>in the afternoon(s) / —</div>	<div>nachmittags</div>	<div>Nachmittags ab 15 Uhr habe ich Zeit für die Kinder.</div>	#fit
+<div>working hours / робочий час</div>	<div>die Arbeitszeit, -en</div>	<div>Ich bin mit meinem Job zufrieden, die Arbeitszeiten sind ziemlich gut.</div>	#fit
